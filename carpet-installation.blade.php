@@ -1704,12 +1704,12 @@
     <div class="hero-content">
         <b class="top-rated-area-rug-container">
             <span class="rated-area-rug-top-rated-area-rug-container">
-                <p class="top-rated-area-rug">Carpet Installation Service in Brooklyn</p>
+                <p class="top-rated-area-rug">Expert Carpet Installation in Brooklyn & Across the USA</p>
             </span>
         </b>
         
         <div class="hero-subheading">
-            Carpets bring warmth, comfort, and style to your home.
+          Professional carpet installation services that transform your space with precision, care, and flawless finishing.
         </div>
         
         <a href="tel:{{ Config::get('page.phone_use') }}" class="hero-button">
@@ -1735,8 +1735,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services%20images/icons/Inspection%20%20Dust%20Removal.png" alt="Inspection Icon">
                 </div>
-                <div class="inspection-dust">Measurement</div>
-                <div class="thorough-rug-checkup">We measure your space precisely and help you choose the right carpet for your home.</div>
+                <div class="inspection-dust">Inspection & Measurement</div>
+                <div class="thorough-rug-checkup">Thorough subfloor assessment and precise measuring for perfect fit.</div>
             </div>
 
             <!-- Card 2 -->
@@ -1744,8 +1744,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Cleaning.png" alt="Cleaning Icon">
                 </div>
-                <div class="cleaning-title">Old Carpet Removal</div>
-                <div class="cleaning-desc">We carefully remove old flooring and prep the area for a smooth installation..</div>
+                <div class="cleaning-title">Subfloor Preparation</div>
+                <div class="cleaning-desc">We clean, level, and dry subfloors to create a solid foundation.</div>
             </div>
 
             <!-- Card 3 -->
@@ -1753,8 +1753,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Stain Odor Treatment.png" alt="Stain & Odor Icon">
                 </div>
-                <div class="stain-odor-title">Carpet Installation</div>
-                <div class="stain-odor-desc">Professional wall-to-wall installation with proper stretching, padding, and alignment.</div>
+                <div class="stain-odor-title">Precision Installation</div>
+                <div class="stain-odor-desc">Using power stretchers for tight, secure fit with invisible seams.</div>
             </div>
 
             <!-- Card 4 -->
@@ -1762,8 +1762,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Drying Grooming.png" alt="Drying Icon">
                 </div>
-                <div class="drying-grooming-title">Finishing </div>
-                <div class="drying-grooming-desc">Trimming, securing, and final inspection for a perfect, seamless look.</div>
+                <div class="drying-grooming-title">Final Inspection & Cleanup </div>
+                <div class="drying-grooming-desc">Quality check plus vacuuming and waste removal for clean finish.</div>
             </div>
         </div>
     </div>
@@ -1791,7 +1791,8 @@
                 </div>
                 
                 <div class="why-professional-description">
-                    <p>DIY installation often leaves bumps, wrinkles, or uneven seams. Poorly installed carpet can wear out quickly and even pose tripping hazards. When you choose A and B Carpet Cleaning, you receive more than just carpet installation. </p>
+                    <p>Poor installation leads to wrinkles, buckling, and premature wear, voiding warranties and creating tripping hazards. Choosing A and B Carpet Cleaning ensures:
+ </p>
                 </div>
                 
                 <div class="why-professional-features">
@@ -1799,28 +1800,28 @@
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Deep cleaning" src="/images/services images/why professional section/Deep Cleaning.svg">
                          </div>
-                         <div class="feature-text">Long-lasting results</div>
+                         <div class="feature-text">Precise seam placement and perfect stretching</div>
                      </div>
                      
                      <div class="feature-item">
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Remove stains and odors" src="/images/services images/why professional section/Remove Stains and Odors.svg">
                          </div>
-                         <div class="feature-text">Seamless, wrinkle-free finish</div>
+                         <div class="feature-text">Proper preparation of the subfloor</div>
                      </div>
                      
                      <div class="feature-item">
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Eco-friendly products" src="/images/services images/why professional section/Eco Friendly Products.svg">
                          </div>
-                         <div class="feature-text">Proper fitting and stretching</div>
+                         <div class="feature-text">Maximized carpet lifespan and performance</div>
                      </div>
                      
                      <div class="feature-item">
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Protecting delicate fibers" src="/images/services images/why professional section/Protecting Delicate Fibers.svg">
                          </div>
-                         <div class="feature-text">Quality padding for comfort and durability</div>
+                         <div class="feature-text">Preservation of your manufacturer’s warranty</div>
                      </div>
                 </div>
             </div>
@@ -1869,11 +1870,11 @@
                     <span class="why-choose-title">
                         <span>Why Choose </span>
                         <span class="a-and-b">A and B</span>
-                        <span> Carpet?</span>
+                        <span> Carpet Cleaning?</span>
                     </span>
                 </div>
                 <div class="why-choose-description">
-                    We are the best carpet installation experts in Brooklyn and throughout the USA for several reasons because we provide:
+                 We’re recognized as the best carpet installation service in Brooklyn and throughout the USA because we provide:
                 </div>
             </div>
         </div>
@@ -1881,23 +1882,23 @@
             <div class="why-choose-features">
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Affordable and honest pricing</div>
+                    <div class="feature-text">Over 30 Years of Experience</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Serving Brooklyn and nearby neighborhoods</div>
+                    <div class="feature-text">Precision Measurement & Seaming</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Over 30 years of flooring and carpet expertise</div>
+                    <div class="feature-text">Affordable & Transparent Pricing</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Affordable pricing and honest recommendations</div>
+                    <div class="feature-text">Satisfaction Guaranteed</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Professional installers who get it right the first time</div>
+                    <div class="feature-text">Professional & Reliable</div>
                 </div>
             </div>
         </div>
@@ -1984,8 +1985,9 @@
                         <img src="/images/services images/What Make Us Trusted/Years of Experience.svg" alt="Years of Experience">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Years of Experience</div>
-                        <div class="trusted-feature-desc"> 30+ years of trusted carpet and rug services in Brooklyn and beyond.</div>
+                        <div class="trusted-feature-title">Expert Craftsmanship</div>
+                        <div class="trusted-feature-desc"> Our professional installers take pride in perfect seams, precise stretching, and flawless attention to detail.
+</div>
                     </div>
                 </div>
                 
@@ -1994,8 +1996,8 @@
                         <img src="/images/services images/What Make Us Trusted/Safe Cleaning Products.svg" alt="Safe Cleaning Products">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Quality Materials</div>
-                        <div class="trusted-feature-desc">We only use high-quality carpets, padding, and adhesives.</div>
+                        <div class="trusted-feature-title">Locally Trusted Brooklyn Experts</div>
+                        <div class="trusted-feature-desc">Brooklyn's trusted installation experts bring professional-grade techniques to homes throughout the borough.</div>
                     </div>
                 </div>
                 
@@ -2004,8 +2006,8 @@
                         <img src="/images/services images/What Make Us Trusted/Ontime and Reliable.svg" alt="On-Time and Reliable">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">On-Time and Reliable</div>
-                        <div class="trusted-feature-desc">Our team shows up prepared and gets the job done right.</div>
+                        <div class="trusted-feature-title">Our Satisfaction Guarantee</div>
+                        <div class="trusted-feature-desc">We guarantee perfect installation and address concerns promptly, complete satisfaction is our priority</div>
                     </div>
                 </div>
                 
@@ -2014,8 +2016,8 @@
                         <img src="/images/services images/What Make Us Trusted/We Stand behind our Work.svg" alt="We Stand Behind Our Work">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Commitment to Excellence</div>
-                        <div class="trusted-feature-desc">If you’re not satisfied, we’ll clean again—your comfort and clean air are our top priorities.</div>
+                        <div class="trusted-feature-title">We Stand Behind Our Work</div>
+                        <div class="trusted-feature-desc">Our workmanship guarantee ensures your peace of mind for years. We're committed to excellence.</div>
                     </div>
                 </div>
             </div>
@@ -2044,7 +2046,8 @@
                     <img src="/images/services images/we are here to help you/special offer.svg" alt="Special offer">
                 </div>
                 <div class="help-title">Special Offer</div>
-                <div class="help-desc">Make a first carpet cleaning service with a 20% discount</div>
+                <div class="help-desc">Receive 20% off your installation service with the purchase of new carpet.
+</div>
                 <a href="/contact" class="help-button primary-button">Get Quote</a>
             </div>
             
@@ -2053,7 +2056,8 @@
                     <img src="/images/services images/we are here to help you/need quick service.svg" alt="Quick service">
                 </div>
                 <div class="help-title">Need Quick Service?</div>
-                <div class="help-desc">Book today to have your Stained carpet cleaned on the same day</div>
+                <div class="help-desc">Book your consultation and measurement for same-week installation availability.
+</div>
                 <a href="/contact" class="help-button secondary-button">Chat With Us</a>
             </div>
             
@@ -2074,9 +2078,9 @@
     <div class="testimonial-container">
         <div class="testimonial-heading">
             <span class="testimonial-title">
-                <span>The Most Reliable </span>
-                <span class="a-and-b">Cleaners</span>
-                <span> of Brooklyn</span>
+                <span>Brooklyn's Most </span>
+                <span class="a-and-b">Reliable Carpet</span>
+                <span>  Installers</span>
             </span>
         </div>
         
@@ -2222,3 +2226,4 @@
     </div>
 </section>
 @include('inc.footer')
+--new
