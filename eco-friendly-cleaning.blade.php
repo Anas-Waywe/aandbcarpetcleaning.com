@@ -1704,12 +1704,12 @@
     <div class="hero-content">
         <b class="top-rated-area-rug-container">
             <span class="rated-area-rug-top-rated-area-rug-container">
-                <p class="top-rated-area-rug">Eco-Friendly Carpet & Rug Cleaning in Brooklyn</p>
+                <p class="top-rated-area-rug">Eco-Friendly Cleaning in Brooklyn & Across the USA</p>
             </span>
         </b>
         
         <div class="hero-subheading">
-            Clean floors, safe air, and a healthy planet — all at once.
+           Professional green cleaning services that deliver exceptional results using non-toxic, biodegradable solutions.
         </div>
         
         <a href="tel:{{ Config::get('page.phone_use') }}" class="hero-button">
@@ -1724,7 +1724,7 @@
         <div class="our-step-by-step-area-container">
             <span class="our-step-by-step-area-our-step-by-step-area-container">
                 <span>Our Step-by-Step </span>
-                <span class="area-rug">Green Cleaning</span>
+                <span class="area-rug"> Eco-Friendly Cleaning</span>
                 <span>Process</span>
             </span>
         </div>
@@ -1735,8 +1735,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services%20images/icons/Inspection%20%20Dust%20Removal.png" alt="Inspection Icon">
                 </div>
-                <div class="inspection-dust">Evaluation </div>
-                <div class="thorough-rug-checkup">We test your rug or carpet material to choose the safest eco method.</div>
+                <div class="inspection-dust">Environmental Assessment</div>
+                <div class="thorough-rug-checkup">Evaluation of your space and materials to determine the most effective green cleaning approach.</div>
             </div>
 
             <!-- Card 2 -->
@@ -1744,8 +1744,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Cleaning.png" alt="Cleaning Icon">
                 </div>
-                <div class="cleaning-title">Cleaning Solutions</div>
-                <div class="cleaning-desc">No harsh chemicals — only biodegradable, non-toxic cleaners.</div>
+                <div class="cleaning-title">Non-Toxic Deep Cleaning</div>
+                <div class="cleaning-desc">Powerful cleaning using certified biodegradable solutions that are safe for people and pets.</div>
             </div>
 
             <!-- Card 3 -->
@@ -1753,8 +1753,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Stain Odor Treatment.png" alt="Stain & Odor Icon">
                 </div>
-                <div class="stain-odor-title">Odor Neutralization</div>
-                <div class="stain-odor-desc">Natural agents remove stains and odors without leaving chemical residue.</div>
+                <div class="stain-odor-title">Natural Stain & Odor Elimination</div>
+                <div class="stain-odor-desc">Plant-based treatments that effectively remove stains and odors without harsh chemicals.</div>
             </div>
 
             <!-- Card 4 -->
@@ -1762,8 +1762,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Drying Grooming.png" alt="Drying Icon">
                 </div>
-                <div class="drying-grooming-title">Gentle Drying</div>
-                <div class="drying-grooming-desc">Efficient drying to prevent mold, keeping rugs soft and fresh.</div>
+                <div class="drying-grooming-title">Eco-Friendly Protection</div>
+                <div class="drying-grooming-desc">Application of green guard products that provide protection without toxic residues.</div>
             </div>
         </div>
     </div>
@@ -1784,14 +1784,14 @@
             <div class="why-professional-content">
                 <div class="why-professional-heading">
                     <span class="why-professional-heading-text">
-                        <span>Why </span>
+                        <span>Why is</span>
                         <span class="professional">Professional</span>
-                        <span> Eco-Friendly Cleaning is Important?</span>
+                        <span> Eco-Friendly Cleaning Important?</span>
                     </span>
                 </div>
                 
                 <div class="why-professional-description">
-                    <p>Regular cleaners may contain toxic chemicals harmful to kids, pets, and even your rug fibers. With A and B Carpet Cleaning, you receive:</p>
+                    <p>Traditional chemicals can leave harmful residues that affect indoor air quality and health. Choosing A and B Carpet Cleaning ensures:</p>
                 </div>
                 
                 <div class="why-professional-features">
@@ -1799,28 +1799,28 @@
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Deep cleaning" src="/images/services images/why professional section/Deep Cleaning.svg">
                          </div>
-                         <div class="feature-text">A healthier, greener homee</div>
+                         <div class="feature-text">Deep cleaning without toxic chemical exposure</div>
                      </div>
                      
                      <div class="feature-item">
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Remove stains and odors" src="/images/services images/why professional section/Remove Stains and Odors.svg">
                          </div>
-                         <div class="feature-text">Longer rug and carpet lifespan</div>
+                         <div class="feature-text">Safer environment for children and pets</div>
                      </div>
                      
                      <div class="feature-item">
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Eco-friendly products" src="/images/services images/why professional section/Eco Friendly Products.svg">
                          </div>
-                         <div class="feature-text">Allergy-friendly results</div>
+                         <div class="feature-text">Reduced environmental impact</div>
                      </div>
                      
                      <div class="feature-item">
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Protecting delicate fibers" src="/images/services images/why professional section/Protecting Delicate Fibers.svg">
                          </div>
-                         <div class="feature-text">Non-toxic cleaning safe for all</div>
+                         <div class="feature-text">Protection of your home's air quality</div>
                      </div>
                 </div>
             </div>
@@ -1869,11 +1869,11 @@
                     <span class="why-choose-title">
                         <span>Why Choose </span>
                         <span class="a-and-b">A and B</span>
-                        <span> Carpet?</span>
+                        <span> Carpet Cleaning?</span>
                     </span>
                 </div>
                 <div class="why-choose-description">
-                    We are the go-to damage repair specialists in Brooklyn and throughout the USA for many reasons:
+                   We're recognized as the leading green cleaning service in Brooklyn and throughout the USA because we provide:
                 </div>
             </div>
         </div>
@@ -1881,23 +1881,23 @@
             <div class="why-choose-features">
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Certified green-cleaning products</div>
+                    <div class="feature-text">30+ Years Green Cleaning Experience</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">30+ years of trusted, sustainable cleaning practices</div>
+                    <div class="feature-text">Certified Non-Toxic Products</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Honest pricing with zero hidden charges</div>
+                    <div class="feature-text">Transparent Eco-Friendly Pricing</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Safe for pets, children, and allergy-sensitive households</div>
+                    <div class="feature-text">Satisfaction Guaranteed</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Professional installers who get it right the first time</div>
+                    <div class="feature-text">Fully Insured & Bonded</div>
                 </div>
             </div>
         </div>
@@ -1984,8 +1984,8 @@
                         <img src="/images/services images/What Make Us Trusted/Years of Experience.svg" alt="Years of Experience">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Years of Experience</div>
-                        <div class="trusted-feature-desc"> Three decades repairing water and fire damage in Brooklyn.</div>
+                        <div class="trusted-feature-title">Green Cleaning Expertise</div>
+                        <div class="trusted-feature-desc"> Our team specializes in eco-friendly methods, understanding the science behind effective non-toxic cleaning.</div>
                     </div>
                 </div>
                 
@@ -1994,8 +1994,8 @@
                         <img src="/images/services images/What Make Us Trusted/Safe Cleaning Products.svg" alt="Safe Cleaning Products">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Safe Cleaning Products</div>
-                        <div class="trusted-feature-desc">For 30+ years, we’ve restored Persian, Oriental, and antique rugs with expert care.</div>
+                        <div class="trusted-feature-title">Brooklyn Environmental Specialists</div>
+                        <div class="trusted-feature-desc">Local experts serving Brooklyn homes with reliable, professional green cleaning services you can trust.</div>
                     </div>
                 </div>
                 
@@ -2004,8 +2004,8 @@
                         <img src="/images/services images/What Make Us Trusted/Ontime and Reliable.svg" alt="On-Time and Reliable">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Specialized Techniques</div>
-                        <div class="trusted-feature-desc">Color correction, reweaving, and deep cleaning methods tailored for valuable rugs.</div>
+                        <div class="trusted-feature-title">Eco-Satisfaction Guarantee</div>
+                        <div class="trusted-feature-desc">We guarantee effective cleaning without chemicals. Your family's health and satisfaction are our priority.</div>
                     </div>
                 </div>
                 
@@ -2014,8 +2014,8 @@
                         <img src="/images/services images/What Make Us Trusted/We Stand behind our Work.svg" alt="We Stand Behind Our Work">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Preserving Family Heirlooms</div>
-                        <div class="trusted-feature-desc">We understand your rug’s sentimental and financial value—our work protects both. </div>
+                        <div class="trusted-feature-title">We Stand Behind Our Work</div>
+                        <div class="trusted-feature-desc">Our green guarantee ensures healthy results. Committed to excellence in every eco-friendly service.</div>
                     </div>
                 </div>
             </div>
@@ -2043,8 +2043,8 @@
                 <div class="help-icon">
                     <img src="/images/services images/we are here to help you/special offer.svg" alt="Special offer">
                 </div>
-                <div class="help-title">Special Offer</div>
-                <div class="help-desc">Make a first carpet cleaning service with a 20% discount</div>
+                <div class="help-title">Special Green Cleaning Offer</div>
+                <div class="help-desc">Receive 15% off your first eco-friendly cleaning service. Go green today.</div>
                 <a href="/contact" class="help-button primary-button">Get Quote</a>
             </div>
             
@@ -2052,8 +2052,8 @@
                 <div class="help-icon">
                     <img src="/images/services images/we are here to help you/need quick service.svg" alt="Quick service">
                 </div>
-                <div class="help-title">Need Quick Service?</div>
-                <div class="help-desc">Book today to have your Stained carpet cleaned on the same day</div>
+                <div class="help-title">Need Flexible Scheduling?</div>
+                <div class="help-desc">Book our convenient time slots that work with your family's schedule.</div>
                 <a href="/contact" class="help-button secondary-button">Chat With Us</a>
             </div>
             
@@ -2062,7 +2062,7 @@
                     <img src="/images/services images/we are here to help you/why wait.svg" alt="Why wait">
                 </div>
                 <div class="help-title">Why Wait?</div>
-                <div class="help-desc">Brooklyn's A and B Carpet Cleaner (licensed, bonded and insured)</div>
+                <div class="help-desc">Brooklyn's trusted eco-friendly cleaning experts (licensed, bonded, and insured).</div>
                 <a href="tel:{{ Config::get('page.phone_use') }}" class="help-button primary-button">Call Now</a>
             </div>
         </div>
@@ -2074,9 +2074,9 @@
     <div class="testimonial-container">
         <div class="testimonial-heading">
             <span class="testimonial-title">
-                <span>The Most Reliable </span>
-                <span class="a-and-b">Cleaners</span>
-                <span> of Brooklyn</span>
+                <span>Brooklyn's Most </span>
+                <span class="a-and-b"> Reliable Green </span>
+                <span> Cleaning Experts</span>
             </span>
         </div>
         
@@ -2222,3 +2222,4 @@
 </section>
 
 @include('inc.footer')
+-new
