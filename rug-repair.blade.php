@@ -1704,12 +1704,12 @@
     <div class="hero-content">
         <b class="top-rated-area-rug-container">
             <span class="rated-area-rug-top-rated-area-rug-container">
-                <p class="top-rated-area-rug">Expert Area Rug Repair Service in Brooklyn</p>
+                <p class="top-rated-area-rug">Expert Area Rug Repair in Brooklyn & Across the USA</p>
             </span>
         </b>
         
         <div class="hero-subheading">
-            Restore the beauty and value of your rug with professional repair tailored to its unique weave and fabric
+          Professional rug repair and restoration services that preserve your valuable rugs with precision, care, and masterful craftsmanship.
         </div>
         
         <a href="tel:{{ Config::get('page.phone_use') }}" class="hero-button">
@@ -1725,7 +1725,7 @@
             <span class="our-step-by-step-area-our-step-by-step-area-container">
                 <span>Our Step-by-Step </span>
                 <span class="area-rug">Area Rug</span>
-                <span> Repairing Process</span>
+                <span> Repair Process</span>
             </span>
         </div>
 
@@ -1735,8 +1735,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services%20images/icons/Inspection%20%20Dust%20Removal.png" alt="Inspection Icon">
                 </div>
-                <div class="inspection-dust">Inspection</div>
-                <div class="thorough-rug-checkup">Careful evaluation of tears, and missing fringes to determine the right repair.</div>
+                <div class="inspection-dust">Inspection & Damage Assessment</div>
+                <div class="thorough-rug-checkup">Thorough evaluation of damage and material to plan the perfect restoration.</div>
             </div>
 
             <!-- Card 2 -->
@@ -1744,8 +1744,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Rug Repair/sewing.png" alt="Cleaning Icon">
                 </div>
-                <div class="cleaning-title">Stitching</div>
-                <div class="cleaning-desc">Skilled reweaving and stitching techniques restore strength and preserve original patterns.</div>
+                <div class="cleaning-title">Expert Repair & Reweaving</div>
+                <div class="cleaning-desc">Masterful reweaving, patching, and fringe repair for seamless results.</div>
             </div>
 
             <!-- Card 3 -->
@@ -1753,8 +1753,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Rug Repair/edge repair.png" alt="Stain & Odor Icon">
                 </div>
-                <div class="stain-odor-title">Edge Repair</div>
-                <div class="stain-odor-desc">Specialized repair of rug edges and fringes for durability and authentic appearance.</div>
+                <div class="stain-odor-title">Color Matching & Blending</div>
+                <div class="stain-odor-desc">Precise dye matching and blending to ensure repairs are invisible.</div>
             </div>
 
             <!-- Card 4 -->
@@ -1762,8 +1762,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Drying Grooming.png" alt="Drying Icon">
                 </div>
-                <div class="drying-grooming-title">Final Grooming</div>
-                <div class="drying-grooming-desc">Detailed finishing ensures your rug looks natural, refreshed, and ready for years of use.</div>
+                <div class="drying-grooming-title">Final Quality Assurance</div>
+                <div class="drying-grooming-desc">Detailed inspection and cleaning to ensure your rug looks revitalized.</div>
             </div>
         </div>
     </div>
@@ -1791,7 +1791,8 @@
                 </div>
                 
                 <div class="why-professional-description">
-                    <p>DIY rug fixes often worsen the damage. Small tears, frayed edges, or unraveling seams can spread rapidly, compromising both the beauty and value of your rug. For lasting results, trust professional rug repair and restoration services to preserve your investment.</p>
+                    <p>Ignoring damage like fraying edges or tears allows them to worsen, drastically reducing the rug’s value and leading to irreversible harm. Choosing A & B Carpet Cleaning ensures:
+</p>
                 </div>
                 
                 <div class="why-professional-features">
@@ -1799,28 +1800,28 @@
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Deep cleaning" src="/images/services images/why professional section/Deep Cleaning.svg">
                          </div>
-                         <div class="feature-text">Expert stitching</div>
+                         <div class="feature-text">Expert restoration of tears, holes, and fraying</div>
                      </div>
                      
                      <div class="feature-item">
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Remove stains and odors" src="/images/services images/why professional section/Remove Stains and Odors.svg">
                          </div>
-                         <div class="feature-text">Extending rug lifespan</div>
+                         <div class="feature-text">Professional reweaving and patching techniques</div>
                      </div>
                      
                      <div class="feature-item">
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Eco-friendly products" src="/images/services images/why professional section/Eco Friendly Products.svg">
                          </div>
-                         <div class="feature-text">Repairing edges and fringes</div>
+                         <div class="feature-text">Prevention of further, more costly damage</div>
                      </div>
                      
                      <div class="feature-item">
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Protecting delicate fibers" src="/images/services images/why professional section/Protecting Delicate Fibers.svg">
                          </div>
-                         <div class="feature-text">Preserving original design integrity</div>
+                         <div class="feature-text">Preservation of your rug’s structural integrity and value</div>
                      </div>
                 </div>
             </div>
@@ -1869,11 +1870,11 @@
                     <span class="why-choose-title">
                         <span>Why Choose </span>
                         <span class="a-and-b">A and B</span>
-                        <span> Carpet?</span>
+                        <span> Carpet Cleaning for Rug Repair?</span>
                     </span>
                 </div>
                 <div class="why-choose-description">
-                    Trusted as the best rug repair service in Brooklyn and across the USA, serving 20,000+ customers with 100% satisfied work.
+                  We’re recognized as the best area rug repair service in Brooklyn and throughout the USA because we provide:
                 </div>
             </div>
         </div>
@@ -1881,23 +1882,23 @@
             <div class="why-choose-features">
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Over 30 years of repair expertise</div>
+                    <div class="feature-text">Over 30 Years of Experience</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Serving Brooklyn and neighborhoods</div>
+                    <div class="feature-text">Precision Craftsmanship</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Professional, detail-oriented care</div>
+                    <div class="feature-text">Affordable & Transparent Pricing</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Transparent and Affordable Pricing</div>
+                    <div class="feature-text">Satisfaction Guaranteed</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">You can rely on friendly, professional service</div>
+                    <div class="feature-text">Professional & Reliable</div>
                 </div>
             </div>
         </div>
@@ -1984,8 +1985,8 @@
                         <img src="/images/services images/What Make Us Trusted/Years of Experience.svg" alt="Years of Experience">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Skilled Rug Artisans</div>
-                        <div class="trusted-feature-desc"> From fringe repairs to patching holes, our specialists restore your area rugs in Brooklyn.</div>
+                        <div class="trusted-feature-title">Masterful Rug Craftsmanship</div>
+                        <div class="trusted-feature-desc"> Our artisans take pride in perfect rewearing, flawless patching, and meticulous attention to detail.</div>
                     </div>
                 </div>
                 
@@ -1994,8 +1995,8 @@
                         <img src="/images/services images/What Make Us Trusted/Safe Cleaning Products.svg" alt="Safe Cleaning Products">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Attention to Detail</div>
-                        <div class="trusted-feature-desc">Every repair is carefully executed to preserve the rug’s beauty, durability, and value.</div>
+                        <div class="trusted-feature-title">Locally Trusted Brooklyn Experts</div>
+                        <div class="trusted-feature-desc">Brooklyn’s trusted rug repair specialists bring restoration service to homes throughout the borough.</div>
                     </div>
                 </div>
                 
@@ -2004,8 +2005,8 @@
                         <img src="/images/services images/What Make Us Trusted/Ontime and Reliable.svg" alt="On-Time and Reliable">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Local + Nationwide</div>
-                        <div class="trusted-feature-desc">Serving Brooklyn homes while also trusted by clients across the country for delicate repair work.</div>
+                        <div class="trusted-feature-title">Our Satisfaction Guarantee</div>
+                        <div class="trusted-feature-desc">We guarantee seamless repairs and address concerns. Your complete satisfaction is our priority.</div>
                     </div>
                 </div>
                 
@@ -2014,8 +2015,8 @@
                         <img src="/images/services images/What Make Us Trusted/We Stand behind our Work.svg" alt="We Stand Behind Our Work">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Satisfaction First</div>
-                        <div class="trusted-feature-desc">If you're not happy, we'll re-clean until you're satisfied guaranteed quality.</div>
+                        <div class="trusted-feature-title">We Stand Behind Our Work</div>
+                        <div class="trusted-feature-desc">Our craftsmanship ensures your rug’ longevity and beauty. Committed to excellence in every repair.</div>
                     </div>
                 </div>
             </div>
@@ -2044,7 +2045,7 @@
                     <img src="/images/services images/we are here to help you/special offer.svg" alt="Special offer">
                 </div>
                 <div class="help-title">Special Offer</div>
-                <div class="help-desc">Make a first carpet cleaning service with a 20% discount</div>
+                <div class="help-desc">Receive 20% off your first rug repair service. Preserve your investment today.</div>
                 <a href="/contact" class="help-button primary-button">Get Quote</a>
             </div>
             
@@ -2053,7 +2054,7 @@
                     <img src="/images/services images/we are here to help you/need quick service.svg" alt="Quick service">
                 </div>
                 <div class="help-title">Need Quick Service?</div>
-                <div class="help-desc">Book today to have your Stained carpet cleaned on the same day</div>
+                <div class="help-desc">Book your consultation for same-week evaluation and repair availability.</div>
                 <a href="/contact" class="help-button secondary-button">Chat With Us</a>
             </div>
             
@@ -2062,7 +2063,7 @@
                     <img src="/images/services images/we are here to help you/why wait.svg" alt="Why wait">
                 </div>
                 <div class="help-title">Why Wait?</div>
-                <div class="help-desc">Brooklyn's A and B Carpet Cleaner (licensed, bonded and insured)</div>
+                <div class="help-desc">Brooklyn’s trusted rug repair experts (licensed, bonded, and insured).</div>
                 <a href="tel:{{ Config::get('page.phone_use') }}" class="help-button primary-button">Call Now</a>
             </div>
         </div>
@@ -2074,9 +2075,9 @@
     <div class="testimonial-container">
         <div class="testimonial-heading">
             <span class="testimonial-title">
-                <span>The Most Reliable </span>
-                <span class="a-and-b">Cleaners</span>
-                <span> of Brooklyn</span>
+                <span>Brooklyn's Most </span>
+                <span class="a-and-b">Reliable Rug</span>
+                <span> Repair Experts</span>
             </span>
         </div>
         
@@ -2222,3 +2223,4 @@
     </div>
 </section>
 @include('inc.footer')
+abcc
