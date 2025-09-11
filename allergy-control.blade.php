@@ -1704,12 +1704,12 @@
     <div class="hero-content">
         <b class="top-rated-area-rug-container">
             <span class="rated-area-rug-top-rated-area-rug-container">
-                <p class="top-rated-area-rug">Allergy Control Cleaning Services</p>
+                <p class="top-rated-area-rug">Allergy Control Cleaning in Brooklyn & Across the USA</p>
             </span>
         </b>
         
         <div class="hero-subheading">
-            Breathe easier by cleaning that removes dust, pollen, and allergens.
+           Expert allergen removal services that eliminate dust mites, pet dander, and pollutants from your home.
         </div>
         
         <a href="tel:{{ Config::get('page.phone_use') }}" class="hero-button">
@@ -1725,7 +1725,7 @@
             <span class="our-step-by-step-area-our-step-by-step-area-container">
                 <span>Our Step-by-Step </span>
                 <span class="area-rug">Allergy</span>
-                <span>Control Cleaning Process</span>
+                <span>Control Process</span>
             </span>
         </div>
 
@@ -1735,8 +1735,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services%20images/icons/Inspection%20%20Dust%20Removal.png" alt="Inspection Icon">
                 </div>
-                <div class="inspection-dust">Assessment</div>
-                <div class="thorough-rug-checkup">We identify allergen hotspots in carpets, rugs, upholstery, and drapes.</div>
+                <div class="inspection-dust">Allergen Assessment</div>
+                <div class="thorough-rug-checkup">Comprehensive evaluation of your home to identify primary allergen sources and problem areas.</div>
             </div>
 
             <!-- Card 2 -->
@@ -1744,8 +1744,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Cleaning.png" alt="Cleaning Icon">
                 </div>
-                <div class="cleaning-title">Deep HEPA</div>
-                <div class="cleaning-desc">Removes dust, pet dander, and microscopic allergens.</div>
+                <div class="cleaning-title">HEPA Filtration Cleaning</div>
+                <div class="cleaning-desc">Advanced HEPA filtration systems that capture and remove 99.97% of allergens and microscopic particles.</div>
             </div>
 
             <!-- Card 3 -->
@@ -1753,8 +1753,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Stain Odor Treatment.png" alt="Stain & Odor Icon">
                 </div>
-                <div class="stain-odor-title">Eco-Safe Cleaning </div>
-                <div class="stain-odor-desc">Non-toxic formulas neutralize allergens without harmful chemicals.</div>
+                <div class="stain-odor-title">Dust Mite Treatment </div>
+                <div class="stain-odor-desc">Specialized treatments that eliminate dust mites and their allergenic waste from deep within fabrics.</div>
             </div>
 
             <!-- Card 4 -->
@@ -1762,8 +1762,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Drying Grooming.png" alt="Drying Icon">
                 </div>
-                <div class="drying-grooming-title">Air Quality</div>
-                <div class="drying-grooming-desc">Our final step ensures cleaner air and healthier breathing.</div>
+                <div class="drying-grooming-title">Air Quality Enhancement</div>
+                <div class="drying-grooming-desc">Final treatments that neutralize airborne particles and create a healthier breathing environment.</div>
             </div>
         </div>
     </div>
@@ -1786,12 +1786,12 @@
                     <span class="why-professional-heading-text">
                         <span>Why </span>
                         <span class="professional">Professional</span>
-                        <span> Allergy Control is Important?</span>
+                        <span> Allergy Control Cleaning is Important?</span>
                     </span>
                 </div>
                 
                 <div class="why-professional-description">
-                    <p>Carpets, rugs, and upholstery act as filters, trapping allergens that trigger sneezing, itchy eyes, and breathing problems. With A and B Carpet Cleaning, you receive:
+                    <p>Regular cleaning disturbs allergens without removing them, allowing them to recirculate in your air. Choosing A and B Carpet Cleaning ensures:
 </p>
                 </div>
                 
@@ -1800,28 +1800,28 @@
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Deep cleaning" src="/images/services images/why professional section/Deep Cleaning.svg">
                          </div>
-                         <div class="feature-text">Cleaner, fresher air indoors</div>
+                         <div class="feature-text">Removal of embedded allergens and dust mites</div>
                      </div>
                      
                      <div class="feature-item">
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Remove stains and odors" src="/images/services images/why professional section/Remove Stains and Odors.svg">
                          </div>
-                         <div class="feature-text">Allergy relief for sensitive households</div>
+                         <div class="feature-text">Significant improvement in indoor air quality</div>
                      </div>
                      
                      <div class="feature-item">
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Eco-friendly products" src="/images/services images/why professional section/Eco Friendly Products.svg">
                          </div>
-                         <div class="feature-text">Safe cleaning for kids and pets</div>
+                         <div class="feature-text">Reduced allergy symptoms and respiratory issues</div>
                      </div>
                      
                      <div class="feature-item">
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Protecting delicate fibers" src="/images/services images/why professional section/Protecting Delicate Fibers.svg">
                          </div>
-                         <div class="feature-text">A healthier home environment year-round</div>
+                         <div class="feature-text">Creation of a healthier home environment</div>
                      </div>
                 </div>
             </div>
@@ -1870,11 +1870,11 @@
                     <span class="why-choose-title">
                         <span>Why Choose </span>
                         <span class="a-and-b">A and B</span>
-                        <span> Carpet?</span>
+                        <span> Carpet Cleaning?</span>
                     </span>
                 </div>
                 <div class="why-choose-description">
-                    We are the go-to allergy control cleaning specialists in Brooklyn and throughout the USA for various reasons:
+                  We're recognized as the leading allergy control service in Brooklyn and throughout the USA because we provide:
                 </div>
             </div>
         </div>
@@ -1882,23 +1882,23 @@
             <div class="why-choose-features">
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Over 30 years of bed bug treatment expertise</div>
+                    <div class="feature-text">30+ Years Allergy Control Experience</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Certified allergy-control cleaning methods</div>
+                    <div class="feature-text">Medical-Grade HEPA Filtration Systems</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Safe for delicate skins, colours and race</div>
+                    <div class="feature-text">Transparent Pricing & Quotes</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Eco-friendly and all-type skin products</div>
+                    <div class="feature-text">Satisfaction Guaranteed</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Professional installers who get it right the first time</div>
+                    <div class="feature-text">Fully Insured & Bonded</div>
                 </div>
             </div>
         </div>
@@ -1985,8 +1985,8 @@
                         <img src="/images/services images/What Make Us Trusted/Years of Experience.svg" alt="Years of Experience">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Years of Experience</div>
-                        <div class="trusted-feature-desc"> Three decades of bed bugs treatment in Brooklyn.</div>
+                        <div class="trusted-feature-title">Allergy Control Expertise</div>
+                        <div class="trusted-feature-desc">Our team specializes in allergen removal, understanding the specific needs of allergy sufferers and sensitive individuals.</div>
                     </div>
                 </div>
                 
@@ -1995,8 +1995,8 @@
                         <img src="/images/services images/What Make Us Trusted/Safe Cleaning Products.svg" alt="Safe Cleaning Products">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Safe Cleaning Products</div>
-                        <div class="trusted-feature-desc">For 30+ years, we have restored Persian, Oriental, and antique items with expert care.</div>
+                        <div class="trusted-feature-title">Brooklyn Allergy Specialists</div>
+                        <div class="trusted-feature-desc">Local experts serving Brooklyn homes with reliable, professional allergy control services you can trust.</div>
                     </div>
                 </div>
                 
@@ -2005,8 +2005,9 @@
                         <img src="/images/services images/What Make Us Trusted/Ontime and Reliable.svg" alt="On-Time and Reliable">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Specialized Techniques</div>
-                        <div class="trusted-feature-desc">Color correction, reweaving, and deep cleaning methods tailored for valuable upholestry.</div>
+                        <div class="trusted-feature-title">Health Satisfaction Guarantee</div>
+                        <div class="trusted-feature-desc">We guarantee allergen reduction and improved air quality. Your family's health and satisfaction are our priority.
+</div>
                     </div>
                 </div>
                 
@@ -2015,8 +2016,8 @@
                         <img src="/images/services images/What Make Us Trusted/We Stand behind our Work.svg" alt="We Stand Behind Our Work">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Preserving Family Heirlooms</div>
-                        <div class="trusted-feature-desc">We understand your window's sentimental and financial value—our work protects both. </div>
+                        <div class="trusted-feature-title">We Stand Behind Our Work</div>
+                        <div class="trusted-feature-desc">Our allergy control guarantee ensures measurable results. Committed to excellence in every health-focused service. </div>
                     </div>
                 </div>
             </div>
@@ -2044,8 +2045,8 @@
                 <div class="help-icon">
                     <img src="/images/services images/we are here to help you/special offer.svg" alt="Special offer">
                 </div>
-                <div class="help-title">Special Offer</div>
-                <div class="help-desc">Make a first carpet cleaning service with a 20% discount</div>
+                <div class="help-title">Special Allergy Control Offer</div>
+                <div class="help-desc">Receive 15% off your first allergy control service. Breathe easier today.</div>
                 <a href="/contact" class="help-button primary-button">Get Quote</a>
             </div>
             
@@ -2053,8 +2054,8 @@
                 <div class="help-icon">
                     <img src="/images/services images/we are here to help you/need quick service.svg" alt="Quick service">
                 </div>
-                <div class="help-title">Need Quick Service?</div>
-                <div class="help-desc">Book today to have your Stained carpet cleaned on the same day</div>
+                <div class="help-title">Need Priority Scheduling?</div>
+                <div class="help-desc">Book our rapid response team for allergy sufferers needing immediate relief.</div>
                 <a href="/contact" class="help-button secondary-button">Chat With Us</a>
             </div>
             
@@ -2063,7 +2064,7 @@
                     <img src="/images/services images/we are here to help you/why wait.svg" alt="Why wait">
                 </div>
                 <div class="help-title">Why Wait?</div>
-                <div class="help-desc">Brooklyn's A and B Carpet Cleaner (licensed, bonded and insured)</div>
+                <div class="help-desc">Brooklyn's trusted allergy control experts (licensed, bonded, and insured).</div>
                 <a href="tel:{{ Config::get('page.phone_use') }}" class="help-button primary-button">Call Now</a>
             </div>
         </div>
@@ -2075,9 +2076,9 @@
     <div class="testimonial-container">
         <div class="testimonial-heading">
             <span class="testimonial-title">
-                <span>The Most Reliable </span>
-                <span class="a-and-b">Cleaners</span>
-                <span> of Brooklyn</span>
+                <span>Brooklyn's Most </span>
+                <span class="a-and-b">Reliable Allergy </span>
+                <span> Control Specialist</span>
             </span>
         </div>
         
@@ -2224,3 +2225,4 @@
 </section>
 
 @include('inc.footer')
+--new
