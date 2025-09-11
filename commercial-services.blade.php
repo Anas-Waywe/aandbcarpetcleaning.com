@@ -1704,12 +1704,12 @@
     <div class="hero-content">
         <b class="top-rated-area-rug-container">
             <span class="rated-area-rug-top-rated-area-rug-container">
-                <p class="top-rated-area-rug">Commercial Carpet & Rug Cleaning in Brooklyn</p>
+                <p class="top-rated-area-rug">Expert Commercial Cleaning in Brooklyn & Across the USA</p>
             </span>
         </b>
         
         <div class="hero-subheading">
-            A clean workplace sets the tone for professionalism.
+            Professional commercial cleaning services that maintain your business environment with efficiency.
         </div>
         
         <a href="tel:{{ Config::get('page.phone_use') }}" class="hero-button">
@@ -1735,8 +1735,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services%20images/icons/Inspection%20%20Dust%20Removal.png" alt="Inspection Icon">
                 </div>
-                <div class="inspection-dust">Deep Cleaning</div>
-                <div class="thorough-rug-checkup">From carpets to rugs and hallways, we use industry-grade equipment for powerful and safe cleaning.</div>
+                <div class="inspection-dust">Business Hours Assessment</div>
+                <div class="thorough-rug-checkup">Evaluation of traffic patterns and operational hours to create a customized cleaning schedule.</div>
             </div>
 
             <!-- Card 2 -->
@@ -1744,8 +1744,9 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Cleaning.png" alt="Cleaning Icon">
                 </div>
-                <div class="cleaning-title">Odor Control</div>
-                <div class="cleaning-desc">Coffee spills, ink marks, or daily wear, we remove stains and neutralize odors quickly.</div>
+                <div class="cleaning-title">Commercial-Grade Cleaning</div>
+                <div class="cleaning-desc">Industrial-strength equipment and solutions for deep cleaning of high-traffic commercial areas.
+</div>
             </div>
 
             <!-- Card 3 -->
@@ -1753,8 +1754,9 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Stain Odor Treatment.png" alt="Stain & Odor Icon">
                 </div>
-                <div class="stain-odor-title">Fast Drying</div>
-                <div class="stain-odor-desc">Advanced deodorizers remove bad smells at the source, not just mask them.</div>
+                <div class="stain-odor-title">Stain & Odor Treatment</div>
+                <div class="stain-odor-desc">Specialized treatment for commercial stains, spills, and odors in workplace environments.
+</div>
             </div>
 
             <!-- Card 4 -->
@@ -1762,8 +1764,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Drying Grooming.png" alt="Drying Icon">
                 </div>
-                <div class="drying-grooming-title">Deep Cleaning</div>
-                <div class="drying-grooming-desc">Minimal downtime with fast drying, plus tailored maintenance schedules for businesses.</div>
+                <div class="drying-grooming-title">Quick-Dry Completion</div>
+                <div class="drying-grooming-desc">Fast-drying methods that allow immediate reopening of cleaned areas for business use.</div>
             </div>
         </div>
     </div>
@@ -1791,7 +1793,8 @@
                 </div>
                 
                 <div class="why-professional-description">
-                    <p>SYour office vacuum only skims the surface, leaving behind deeply embedded dirt, allergens, and bacteria that affect workplace health and cleanliness. With A and B Carpet Cleaning, you get:</p>
+                    <p>A dirty workplace impresses no one. Ground-in dirt and stains create an unprofessional image and can contribute to employee sick days. Choosing A and B Carpet Cleaning ensures:
+</p>
                 </div>
                 
                 <div class="why-professional-features">
@@ -1799,28 +1802,28 @@
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Deep cleaning" src="/images/services images/why professional section/Deep Cleaning.svg">
                          </div>
-                         <div class="feature-text">Long-lasting carpets and rugs</div>
+                         <div class="feature-text">Deep cleaning of high-traffic areas and stains</div>
                      </div>
                      
                      <div class="feature-item">
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Remove stains and odors" src="/images/services images/why professional section/Remove Stains and Odors.svg">
                          </div>
-                         <div class="feature-text">Healthier indoor air for employees and clients</div>
+                         <div class="feature-text">A healthier environment for employees and clients</div>
                      </div>
                      
                      <div class="feature-item">
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Eco-friendly products" src="/images/services images/why professional section/Eco Friendly Products.svg">
                          </div>
-                         <div class="feature-text">A spotless, professional image for your business</div>
+                         <div class="feature-text">Enhanced professional appearance for your business</div>
                      </div>
                      
                      <div class="feature-item">
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Protecting delicate fibers" src="/images/services images/why professional section/Protecting Delicate Fibers.svg">
                          </div>
-                         <div class="feature-text">Flexible scheduling to suit your business hours</div>
+                         <div class="feature-text">Protection of your commercial flooring investment</div>
                      </div>
                 </div>
             </div>
@@ -1869,11 +1872,11 @@
                     <span class="why-choose-title">
                         <span>Why Choose </span>
                         <span class="a-and-b">A and B</span>
-                        <span> Carpet?</span>
+                        <span> Carpet Cleaning?</span>
                     </span>
                 </div>
                 <div class="why-choose-description">
-                    We are the go-to commercial cleaning and repair specialists in Brooklyn and throughout the USA for many reasons:
+                  We're recognized as the leading commercial cleaning service in Brooklyn and throughout the USA because we provide:
                 </div>
             </div>
         </div>
@@ -1881,23 +1884,23 @@
             <div class="why-choose-features">
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Over 30 years serving Brooklyn businesses</div>
+                    <div class="feature-text">30+ Years Commercial Experience</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Affordable and transparent pricing</div>
+                    <div class="feature-text">After-Hours Scheduling</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Affordable packages with no hidden fees</div>
+                    <div class="feature-text">Transparent Commercial Pricing</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Expertise in office, retail, and commercial property cleaning</div>
+                    <div class="feature-text">Satisfaction Guaranteed</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Professional installers who get it right the first time</div>
+                    <div class="feature-text">Fully Insured & Bonded</div>
                 </div>
             </div>
         </div>
@@ -1973,7 +1976,7 @@
         <div class="what-make-us-trusted-right">
             <div class="trusted-heading">
                 <span class="trusted-title">
-                    <span>What Make Us </span>
+                    <span>What Makes Us </span>
                     <span class="a-and-b">Trusted</span>
                 </span>
             </div>
@@ -1984,8 +1987,8 @@
                         <img src="/images/services images/What Make Us Trusted/Years of Experience.svg" alt="Years of Experience">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Years of Experience</div>
-                        <div class="trusted-feature-desc">Decades of specialized stain and odor removal services.</div>
+                        <div class="trusted-feature-title">Commercial Cleaning Expertise</div>
+                        <div class="trusted-feature-desc">Our team specializes in business environments, understanding the unique needs of commercial spaces.</div>
                     </div>
                 </div>
                 
@@ -1994,8 +1997,8 @@
                         <img src="/images/services images/What Make Us Trusted/Safe Cleaning Products.svg" alt="Safe Cleaning Products">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Safe Cleaning Products</div>
-                        <div class="trusted-feature-desc">Decades of expertise in safe, green carpet and rug cleaning.</div>
+                        <div class="trusted-feature-title">Brooklyn Business Specialists</div>
+                        <div class="trusted-feature-desc">Local experts serving Brooklyn businesses with reliable, professional cleaning services you can trust.</div>
                     </div>
                 </div>
                 
@@ -2004,8 +2007,9 @@
                         <img src="/images/services images/What Make Us Trusted/Ontime and Reliable.svg" alt="On-Time and Reliable">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">On-Time and Reliable</div>
-                        <div class="trusted-feature-desc">Prompt, professional service that respects your time.</div>
+                        <div class="trusted-feature-title">Business Satisfaction Guarantee</div>
+                        <div class="trusted-feature-desc">We guarantee minimal disruption and maximum results. Your business comfort is our priority.
+</div>
                     </div>
                 </div>
                 
@@ -2015,7 +2019,8 @@
                     </div>
                     <div class="trusted-feature-content">
                         <div class="trusted-feature-title">We Stand Behind Our Work</div>
-                        <div class="trusted-feature-desc">If odors or stains remain, we’ll re-treat until you’re satisfied.</div>
+                        <div class="trusted-feature-desc">Our commercial guarantee ensures consistent quality. Committed to excellence in every business service.
+</div>
                     </div>
                 </div>
             </div>
@@ -2027,7 +2032,7 @@
 <section class="we-are-here-section">
     <div class="we-are-here-container">
         <div class="we-are-here-heading">
-            <span class="we-are-here-title">We Are Here To Help You</span>
+            <span class="we-are-here-title">We Are Here To Help Your Business</span>
         </div>
         
         <div class="we-are-here-main-heading">
@@ -2043,8 +2048,9 @@
                 <div class="help-icon">
                     <img src="/images/services images/we are here to help you/special offer.svg" alt="Special offer">
                 </div>
-                <div class="help-title">Special Offer</div>
-                <div class="help-desc">Make a first carpet cleaning service with a 20% discount</div>
+                <div class="help-title">Special Business Offer</div>
+                <div class="help-desc">Receive 15% off your first commercial cleaning service. Enhance your business environment today.
+</div>
                 <a href="/contact" class="help-button primary-button">Get Quote</a>
             </div>
             
@@ -2052,8 +2058,10 @@
                 <div class="help-icon">
                     <img src="/images/services images/we are here to help you/need quick service.svg" alt="Quick service">
                 </div>
-                <div class="help-title">Need Quick Service?</div>
-                <div class="help-desc">Book today to have your Stained carpet cleaned on the same day</div>
+                <div class="help-title">Need After-Hours Service?
+</div>
+                <div class="help-desc">Book our evening and weekend cleaning slots to avoid business disruptions.
+</div>
                 <a href="/contact" class="help-button secondary-button">Chat With Us</a>
             </div>
             
@@ -2062,7 +2070,8 @@
                     <img src="/images/services images/we are here to help you/why wait.svg" alt="Why wait">
                 </div>
                 <div class="help-title">Why Wait?</div>
-                <div class="help-desc">Brooklyn's A and B Carpet Cleaner (licensed, bonded and insured)</div>
+                <div class="help-desc">Brooklyn's trusted commercial cleaning experts (licensed, bonded, and insured).
+</div>
                 <a href="tel:{{ Config::get('page.phone_use') }}" class="help-button primary-button">Call Now</a>
             </div>
         </div>
@@ -2074,9 +2083,9 @@
     <div class="testimonial-container">
         <div class="testimonial-heading">
             <span class="testimonial-title">
-                <span>The Most Reliable </span>
-                <span class="a-and-b">Cleaners</span>
-                <span> of Brooklyn</span>
+                <span>Brooklyn's Most </span>
+                <span class="a-and-b">Reliable Commercial </span>
+                <span> Cleaning Service</span>
             </span>
         </div>
         
@@ -2223,3 +2232,4 @@
 </section>
 
 @include('inc.footer')
+-new
