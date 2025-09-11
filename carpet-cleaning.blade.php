@@ -1709,7 +1709,7 @@
         </b>
         
         <div class="hero-subheading">
-            Professional carpet cleaning services that eliminate dirt, stains, and allergens while extending carpet life.
+           Professional carpet cleaning services that eliminate dirt, stains, and allergens while extending carpet life.
         </div>
         
         <a href="tel:{{ Config::get('page.phone_use') }}" class="hero-button">
@@ -1736,7 +1736,7 @@
                     <img src="/images/services%20images/icons/Inspection%20%20Dust%20Removal.png" alt="Inspection Icon">
                 </div>
                 <div class="inspection-dust">Inspection </div>
-                <div class="thorough-rug-checkup">Assessment of carpet fibers and stains with pre-treatment for effective results.</div>
+                <div class="thorough-rug-checkup">Thorough assessment of fibers & stains for effective treatment.</div>
             </div>
 
             <!-- Card 2 -->
@@ -1745,7 +1745,7 @@
                     <img src="/images/services images/icons/Cleaning.png" alt="Cleaning Icon">
                 </div>
                 <div class="cleaning-title">Deep Cleaning</div>
-                <div class="cleaning-desc">Advanced steam, shampoo, or dry cleaning tailored to your carpet type.</div>
+                <div class="cleaning-desc">Advanced hot water extraction tailored to your carpet type.</div>
             </div>
 
             <!-- Card 3 -->
@@ -1754,7 +1754,7 @@
                     <img src="/images/services images/icons/Stain Odor Treatment.png" alt="Stain & Odor Icon">
                 </div>
                 <div class="stain-odor-title">Stain Removal</div>
-                <div class="stain-odor-desc">Targeted removal of stains, odors, and allergens for fresh, clean carpets.</div>
+                <div class="stain-odor-desc">Target stubborn stains & odors with powerful, eco-safe solutions.</div>
             </div>
 
             <!-- Card 4 -->
@@ -1762,8 +1762,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Drying Grooming.png" alt="Drying Icon">
                 </div>
-                <div class="drying-grooming-title">Drying</div>
-                <div class="drying-grooming-desc">Controlled drying and grooming leave carpets soft, fresh, and ready to use.</div>
+                <div class="drying-grooming-title">Drying & Grooming</div>
+                <div class="drying-grooming-desc">Fast-drying techniques leave carpets soft and ready to use.</div>
             </div>
         </div>
     </div>
@@ -1806,14 +1806,14 @@
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Remove stains and odors" src="/images/services images/why professional section/Remove Stains and Odors.svg">
                          </div>
-                         <div class="feature-text">Improved indoor air quality</div>
+                         <div class="feature-text">Eco-friendly cleaning products</div>
                      </div>
                      
                      <div class="feature-item">
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Eco-friendly products" src="/images/services images/why professional section/Eco Friendly Products.svg">
                          </div>
-                         <div class="feature-text">Eco-friendly cleaning products</div>
+                         <div class="feature-text">Improved indoor air quality</div>
                      </div>
                      
                      <div class="feature-item">
@@ -1869,11 +1869,11 @@
                     <span class="why-choose-title">
                         <span>Why Choose </span>
                         <span class="a-and-b">A and B</span>
-                        <span> Carpet?</span>
+                        <span> Carpet Cleaning?</span>
                     </span>
                 </div>
                 <div class="why-choose-description">
-                    We’re recognized as the best carpet cleaning in Brooklyn and throughout the USA because we provide:
+                 We’re recognized as the best carpet cleaning service in Brooklyn and throughout the USA because we provide:
                 </div>
             </div>
         </div>
@@ -1881,23 +1881,23 @@
             <div class="why-choose-features">
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Over 30 years of carpet cleaning experience</div>
+                    <div class="feature-text">Over 30 Years of Experience</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Affordable and transparent pricing</div>
+                    <div class="feature-text">Eco-Safe Cleaning Solutions</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Safe, eco-friendly cleaning methods</div>
+                    <div class="feature-text">Affordable & Transparent Pricing</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Professional and reliable service</div>
+                    <div class="feature-text">Satisfaction Guaranteed</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Professional installers who get it right the first time</div>
+                    <div class="feature-text">Professional & Reliable</div>
                 </div>
             </div>
         </div>
@@ -1984,8 +1984,8 @@
                         <img src="/images/services images/What Make Us Trusted/Years of Experience.svg" alt="Years of Experience">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Eco-Safe Solutions</div>
-                        <div class="trusted-feature-desc">Non-toxic cleaning products that keep families and pets safe while delivering deep clean results.</div>
+                        <div class="trusted-feature-title">Eco-Safe Cleaning Solutions</div>
+                        <div class="trusted-feature-desc">Non-toxic, biodegradable products safe for families and pets while delivering powerful deep cleaning.</div>
                     </div>
                 </div>
                 
@@ -1994,8 +1994,8 @@
                         <img src="/images/services images/What Make Us Trusted/Safe Cleaning Products.svg" alt="Safe Cleaning Products">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Reliable Brooklyn Service</div>
-                        <div class="trusted-feature-desc">Trusted locally in Brooklyn with professional-grade processes recognized across the USA</div>
+                        <div class="trusted-feature-title">Locally Trusted Brooklyn Experts</div>
+                        <div class="trusted-feature-desc">Your local Brooklyn team brings professional-grade, nationally recognized cleaning to your home.</div>
                     </div>
                 </div>
                 
@@ -2004,8 +2004,8 @@
                         <img src="/images/services images/What Make Us Trusted/Ontime and Reliable.svg" alt="On-Time and Reliable">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Commitment to Excellence</div>
-                        <div class="trusted-feature-desc">If you are not satisfied, we will clean again, your comfort and clean air are our top priorities.
+                        <div class="trusted-feature-title">Our Satisfaction Guarantee</div>
+                        <div class="trusted-feature-desc">Unhappy? We'll return to reclean at no extra cost. Your complete satisfaction is our priority.
 </div>
                     </div>
                 </div>
@@ -2016,7 +2016,7 @@
                     </div>
                     <div class="trusted-feature-content">
                         <div class="trusted-feature-title">We Stand Behind Our Work</div>
-                        <div class="trusted-feature-desc">If odors or stains remain, we’ll re-treat until you’re satisfied.</div>
+                        <div class="trusted-feature-desc">We'll keep working until you're satisfied. Stubborn stains or odors won't stand a chance with us.</div>
                     </div>
                 </div>
             </div>
@@ -2045,7 +2045,7 @@
                     <img src="/images/services images/we are here to help you/special offer.svg" alt="Special offer">
                 </div>
                 <div class="help-title">Special Offer</div>
-                <div class="help-desc">Make a first carpet cleaning service with a 20% discount</div>
+                <div class="help-desc">Make your first carpet cleaning service with a 20% discount.</div>
                 <a href="/contact" class="help-button primary-button">Get Quote</a>
             </div>
             
@@ -2054,7 +2054,7 @@
                     <img src="/images/services images/we are here to help you/need quick service.svg" alt="Quick service">
                 </div>
                 <div class="help-title">Need Quick Service?</div>
-                <div class="help-desc">Book today to have your Stained carpet cleaned on the same day</div>
+                <div class="help-desc">Book today to have your stained carpet cleaned on the same day.</div>
                 <a href="/contact" class="help-button secondary-button">Chat With Us</a>
             </div>
             
@@ -2063,7 +2063,8 @@
                     <img src="/images/services images/we are here to help you/why wait.svg" alt="Why wait">
                 </div>
                 <div class="help-title">Why Wait?</div>
-                <div class="help-desc">Brooklyn's A and B Carpet Cleaner (licensed, bonded and insured)</div>
+                <div class="help-desc">Brooklyn's trusted carpet cleaner (licensed, bonded, and insured).
+</div>
                 <a href="tel:{{ Config::get('page.phone_use') }}" class="help-button primary-button">Call Now</a>
             </div>
         </div>
@@ -2223,3 +2224,4 @@
     </div>
 </section>
 @include('inc.footer')
+-new
