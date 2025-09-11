@@ -1705,12 +1705,12 @@
     <div class="hero-content">
         <b class="top-rated-area-rug-container">
             <span class="rated-area-rug-top-rated-area-rug-container">
-                <p class="top-rated-area-rug">Safe & Effective Bed Bug Treatment</p>
+                <p class="top-rated-area-rug">Expert Bed Bug Treatment in Brooklyn & Across the USA</p>
             </span>
         </b>
         
         <div class="hero-subheading">
-            Sleep peacefully again with expert solutions that eliminate pests for good.
+      Expert bed bug removal services eliminate infestations using advanced techniques and proven methods.
         </div>
         
         <a href="tel:{{ Config::get('page.phone_use') }}" class="hero-button">
@@ -1736,8 +1736,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services%20images/icons/Inspection%20%20Dust%20Removal.png" alt="Inspection Icon">
                 </div>
-                <div class="inspection-dust">Inspection</div>
-                <div class="thorough-rug-checkup">Your drapes or blinds are cleaned, pressed, and reinstalled perfectly.</div>
+                <div class="inspection-dust">Inspection & Infestation Assessment</div>
+                <div class="thorough-rug-checkup">Thorough evaluation of affected areas to identify the extent of the infestation.</div>
             </div>
 
             <!-- Card 2 -->
@@ -1745,8 +1745,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Cleaning.png" alt="Cleaning Icon">
                 </div>
-                <div class="cleaning-title">Targeted Steam</div>
-                <div class="cleaning-desc"> Specialized equipment removes dust, pollen, and trapped allergens.</div>
+                <div class="cleaning-title">Targeted Treatment Application</div>
+                <div class="cleaning-desc"> Precise application of eco-friendly solutions to eliminate bed bugs at the source.</div>
             </div>
 
             <!-- Card 3 -->
@@ -1754,8 +1754,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Stain Odor Treatment.png" alt="Stain & Odor Icon">
                 </div>
-                <div class="stain-odor-title">Sanitization </div>
-                <div class="stain-odor-desc">Depending on the fabric, we use safe dry-cleaning or gentle wash methods.</div>
+                <div class="stain-odor-title">Deep Cleaning & Sanitizing</div>
+                <div class="stain-odor-desc">Intensive cleaning and sanitizing to remove allergens, eggs, and residues.</div>
             </div>
 
             <!-- Card 4 -->
@@ -1763,8 +1763,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Drying Grooming.png" alt="Drying Icon">
                 </div>
-                <div class="drying-grooming-title">Prevention</div>
-                <div class="drying-grooming-desc">Your drapes or blinds are cleaned, pressed, and reinstalled perfectly.</div>
+                <div class="drying-grooming-title">Prevention & Follow-Up</div>
+                <div class="drying-grooming-desc">Implementation of preventive measures and inspections to ensure complete eradication.</div>
             </div>
         </div>
     </div>
@@ -1792,7 +1792,7 @@
                 </div>
                 
                 <div class="why-professional-description">
-                    <p>DIY sprays and over-the-counter products rarely eliminate infestations fully. Bed bugs hide deep in fabrics, carpets, and upholstery. With A and B Carpet Cleaning, you receive:
+                    <p>Ignoring bed bugs allows rapid reproduction, leading to health risks, property damage, and costly infestations. Choosing A & B Carpet Cleaning ensures:
 </p>
                 </div>
                 
@@ -1801,28 +1801,28 @@
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Deep cleaning" src="/images/services images/why professional section/Deep Cleaning.svg">
                          </div>
-                         <div class="feature-text">Safe treatment for your family and pets</div>
+                         <div class="feature-text">Complete elimination of bed bugs</div>
                      </div>
                      
                      <div class="feature-item">
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Remove stains and odors" src="/images/services images/why professional section/Remove Stains and Odors.svg">
                          </div>
-                         <div class="feature-text">Elimination of bugs, eggs, and allergens</div>
+                         <div class="feature-text">Deep cleaning of infested furniture</div>
                      </div>
                      
                      <div class="feature-item">
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Eco-friendly products" src="/images/services images/why professional section/Eco Friendly Products.svg">
                          </div>
-                         <div class="feature-text">Long-term protection with expert guidance</div>
+                         <div class="feature-text">Prevention of future infestations</div>
                      </div>
                      
                      <div class="feature-item">
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Protecting delicate fibers" src="/images/services images/why professional section/Protecting Delicate Fibers.svg">
                          </div>
-                         <div class="feature-text">A healthier, pest-free home environment</div>
+                         <div class="feature-text">Protection of your health and home</div>
                      </div>
                 </div>
             </div>
@@ -1871,11 +1871,11 @@
                     <span class="why-choose-title">
                         <span>Why Choose </span>
                         <span class="a-and-b">A and B</span>
-                        <span> Carpet?</span>
+                        <span> Carpet Cleaning?</span>
                     </span>
                 </div>
                 <div class="why-choose-description">
-                    We are the go-to bed bug treatment specialists in Brooklyn and throughout the USA for many reasons:
+                 We’re recognized as the top bed bug treatment service in Brooklyn because we provide:
                 </div>
             </div>
         </div>
@@ -1883,23 +1883,23 @@
             <div class="why-choose-features">
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Over 30 years of bed bug treatment expertise</div>
+                    <div class="feature-text">30+ Years of trusted expertise since 1980.</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Gentle, fabric-specific cleaning methods</div>
+                    <div class="feature-text">Affordable pricing rates, no hidden fees.</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Safe for delicate silks, velvets, and modern blinds</div>
+                    <div class="feature-text">Eco-friendly cleaning safe, non-toxic methods.</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Eco-friendly and fabric-safe products</div>
+                    <div class="feature-text">Professional service that is licensed and insured.</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Professional installers who get it right the first time</div>
+                    <div class="feature-text">Expert installation done at the right time.</div>
                 </div>
             </div>
         </div>
@@ -1986,8 +1986,8 @@
                         <img src="/images/services images/What Make Us Trusted/Years of Experience.svg" alt="Years of Experience">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Years of Experience</div>
-                        <div class="trusted-feature-desc"> Three decades of bed bugs treatment in Brooklyn.</div>
+                        <div class="trusted-feature-title">Effective Bed Bug Elimination</div>
+                        <div class="trusted-feature-desc">We use proven methods and eco-friendly solutions to eradicate bed bugs completely.</div>
                     </div>
                 </div>
                 
@@ -1996,8 +1996,8 @@
                         <img src="/images/services images/What Make Us Trusted/Safe Cleaning Products.svg" alt="Safe Cleaning Products">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Safe Cleaning Products</div>
-                        <div class="trusted-feature-desc">For 30+ years, we have restored Persian, Oriental, and antique items with expert care.</div>
+                        <div class="trusted-feature-title">Locally Trusted Brooklyn Experts</div>
+                        <div class="trusted-feature-desc">Brooklyn’s trusted bed bug specialists bringing relief to homes throughout the borough.</div>
                     </div>
                 </div>
                 
@@ -2006,8 +2006,8 @@
                         <img src="/images/services images/What Make Us Trusted/Ontime and Reliable.svg" alt="On-Time and Reliable">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Specialized Techniques</div>
-                        <div class="trusted-feature-desc">Color correction, reweaving, and deep cleaning methods tailored for valuable upholestry.</div>
+                        <div class="trusted-feature-title">Our Satisfaction Guarantee</div>
+                        <div class="trusted-feature-desc">We guarantee effective treatment and address all concerns. Your peace of mind is our priority.</div>
                     </div>
                 </div>
                 
@@ -2016,8 +2016,8 @@
                         <img src="/images/services images/What Make Us Trusted/We Stand behind our Work.svg" alt="We Stand Behind Our Work">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Preserving Family Heirlooms</div>
-                        <div class="trusted-feature-desc">We understand your window's sentimental and financial value—our work protects both. </div>
+                        <div class="trusted-feature-title">We Stand Behind Our Work</div>
+                        <div class="trusted-feature-desc">Our proven methods keep your home bed bug-free with Commitment.</div>
                     </div>
                 </div>
             </div>
@@ -2046,7 +2046,7 @@
                     <img src="/images/services images/we are here to help you/special offer.svg" alt="Special offer">
                 </div>
                 <div class="help-title">Special Offer</div>
-                <div class="help-desc">Make a first carpet cleaning service with a 20% discount</div>
+                <div class="help-desc">Get 20% off first bed bug treatment. Reclaim your home today.</div>
                 <a href="/contact" class="help-button primary-button">Get Quote</a>
             </div>
             
@@ -2055,7 +2055,7 @@
                     <img src="/images/services images/we are here to help you/need quick service.svg" alt="Quick service">
                 </div>
                 <div class="help-title">Need Quick Service?</div>
-                <div class="help-desc">Book today to have your Stained carpet cleaned on the same day</div>
+                <div class="help-desc">Book your inspection for same-week treatment and elimination.</div>
                 <a href="/contact" class="help-button secondary-button">Chat With Us</a>
             </div>
             
@@ -2064,7 +2064,7 @@
                     <img src="/images/services images/we are here to help you/why wait.svg" alt="Why wait">
                 </div>
                 <div class="help-title">Why Wait?</div>
-                <div class="help-desc">Brooklyn's A and B Carpet Cleaner (licensed, bonded and insured)</div>
+                <div class="help-desc">Brooklyn's trusted bed bug experts: licensed, bonded, and insured.</div>
                 <a href="tel:{{ Config::get('page.phone_use') }}" class="help-button primary-button">Call Now</a>
             </div>
         </div>
@@ -2076,9 +2076,9 @@
     <div class="testimonial-container">
         <div class="testimonial-heading">
             <span class="testimonial-title">
-                <span>The Most Reliable </span>
-                <span class="a-and-b">Cleaners</span>
-                <span> of Brooklyn</span>
+                <span>Brooklyn's Most </span>
+                <span class="a-and-b">Reliable Bed</span>
+                <span>Bug Eradicators</span>
             </span>
         </div>
         
@@ -2226,3 +2226,4 @@
 </style>
 
 @include('inc.footer')
+--new
