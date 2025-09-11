@@ -1704,12 +1704,12 @@
     <div class="hero-content">
         <b class="top-rated-area-rug-container">
             <span class="rated-area-rug-top-rated-area-rug-container">
-                <p class="top-rated-area-rug">Professional Window Treatment Cleaning</p>
+                <p class="top-rated-area-rug">Window Treatment Cleaning in Brooklyn & Across the USA</p>
             </span>
         </b>
         
         <div class="hero-subheading">
-            Fresh, clean, and allergen-free drapes and blinds for a brighter home.
+           Professional window treatment cleaning services that restore your blinds, drapes, and curtains to their original beauty.
         </div>
         
         <a href="tel:{{ Config::get('page.phone_use') }}" class="hero-button">
@@ -1725,7 +1725,7 @@
             <span class="our-step-by-step-area-our-step-by-step-area-container">
                 <span>Our Step-by-Step </span>
                 <span class="area-rug">Windows</span>
-                <span>Cleaning Process</span>
+                <span>Treatment Cleaning Process</span>
             </span>
         </div>
 
@@ -1735,8 +1735,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services%20images/icons/Inspection%20%20Dust%20Removal.png" alt="Inspection Icon">
                 </div>
-                <div class="inspection-dust">Inspection</div>
-                <div class="thorough-rug-checkup">Your drapes or blinds are cleaned, pressed, and reinstalled perfectly.</div>
+                <div class="inspection-dust">Treatment Type Assessment</div>
+                <div class="thorough-rug-checkup">Evaluation of your window treatments to determine the ideal cleaning method for each material.</div>
             </div>
 
             <!-- Card 2 -->
@@ -1744,8 +1744,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Cleaning.png" alt="Cleaning Icon">
                 </div>
-                <div class="cleaning-title">Allergen Removal</div>
-                <div class="cleaning-desc"> Specialized equipment removes dust, pollen, and trapped allergens.</div>
+                <div class="cleaning-title">Specialized Cleaning Process</div>
+                <div class="cleaning-desc"> Customized cleaning using appropriate techniques for blinds, curtains, and other window coverings.</div>
             </div>
 
             <!-- Card 3 -->
@@ -1753,8 +1753,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Stain Odor Treatment.png" alt="Stain & Odor Icon">
                 </div>
-                <div class="stain-odor-title">Dry-Cleaning</div>
-                <div class="stain-odor-desc">Depending on the fabric, we use safe dry-cleaning or gentle wash methods.</div>
+                <div class="stain-odor-title">Stain & Odor Treatment</div>
+                <div class="stain-odor-desc">Targeted removal of stains, smoke residue, and odors from window treatment materials.</div>
             </div>
 
             <!-- Card 4 -->
@@ -1762,8 +1762,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Drying Grooming.png" alt="Drying Icon">
                 </div>
-                <div class="drying-grooming-title">Rehanging </div>
-                <div class="drying-grooming-desc">Your drapes or blinds are cleaned, pressed, and reinstalled perfectly.</div>
+                <div class="drying-grooming-title">Professional Finishing</div>
+                <div class="drying-grooming-desc">Careful reinstallation and finishing to ensure your treatments look and function like new.</div>
             </div>
         </div>
     </div>
@@ -1786,12 +1786,12 @@
                     <span class="why-professional-heading-text">
                         <span>Why </span>
                         <span class="professional">Professional</span>
-                        <span> Window Cleaning is Important?</span>
+                        <span> Window Treatment is Important?</span>
                     </span>
                 </div>
                 
                 <div class="why-professional-description">
-                    <p>Window coverings trap dust, pollen, smoke, and odors. Over time, they affect indoor air quality and trigger allergies. With A and B Carpet Cleaning, you receive:
+                    <p>Dusty window treatments continuously circulate allergens and diminish your home's appearance. Choosing A and B Carpet Cleaning ensures:
 </p>
                 </div>
                 
@@ -1800,28 +1800,28 @@
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Deep cleaning" src="/images/services images/why professional section/Deep Cleaning.svg">
                          </div>
-                         <div class="feature-text">A polished look that enhances your home decor</div>
+                         <div class="feature-text">Removal of deeply embedded dust and allergens</div>
                      </div>
                      
                      <div class="feature-item">
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Remove stains and odors" src="/images/services images/why professional section/Remove Stains and Odors.svg">
                          </div>
-                         <div class="feature-text">Smoke, odor, and dust-free drapes/blinds</div>
+                         <div class="feature-text">Restoration of your treatments' original beauty</div>
                      </div>
                      
                      <div class="feature-item">
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Eco-friendly products" src="/images/services images/why professional section/Eco Friendly Products.svg">
                          </div>
-                         <div class="feature-text">Fabrics that look new and last longer</div>
+                         <div class="feature-text">Improved indoor air quality and sunlight filtration</div>
                      </div>
                      
                      <div class="feature-item">
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Protecting delicate fibers" src="/images/services images/why professional section/Protecting Delicate Fibers.svg">
                          </div>
-                         <div class="feature-text">Cleaner air and allergen reduction</div>
+                         <div class="feature-text">Extended lifespan of your window investment.</div>
                      </div>
                 </div>
             </div>
@@ -1870,11 +1870,11 @@
                     <span class="why-choose-title">
                         <span>Why Choose </span>
                         <span class="a-and-b">A and B</span>
-                        <span> Carpet?</span>
+                        <span> Carpet Cleaning?</span>
                     </span>
                 </div>
                 <div class="why-choose-description">
-                    We are the go-to window repair specialists in Brooklyn and throughout the USA for many reasons:
+                 We're recognized as the leading window treatment cleaning service in Brooklyn and throughout the USA because we provide:
                 </div>
             </div>
         </div>
@@ -1882,23 +1882,23 @@
             <div class="why-choose-features">
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Over 30 years of upholstery cleaning expertise</div>
+                    <div class="feature-text">30+ Years Window Treatment Experience</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Gentle, fabric-specific cleaning methods</div>
+                    <div class="feature-text">Material-Specific Cleaning Methods</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Safe for delicate silks, velvets, and modern blinds</div>
+                    <div class="feature-text">Transparent Pricing & Quotes</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Eco-friendly and fabric-safe products</div>
+                    <div class="feature-text">Satisfaction Guaranteed</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Professional installers who get it right the first time</div>
+                    <div class="feature-text">Fully Insured & Bonded</div>
                 </div>
             </div>
         </div>
@@ -1985,8 +1985,8 @@
                         <img src="/images/services images/What Make Us Trusted/Years of Experience.svg" alt="Years of Experience">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Years of Experience</div>
-                        <div class="trusted-feature-desc"> Three decades of upholestry cleaning in Brooklyn.</div>
+                        <div class="trusted-feature-title">Window Treatment Expertise</div>
+                        <div class="trusted-feature-desc"> Our team specializes in all treatment types, understanding the unique cleaning needs of different materials and styles.</div>
                     </div>
                 </div>
                 
@@ -1995,8 +1995,8 @@
                         <img src="/images/services images/What Make Us Trusted/Safe Cleaning Products.svg" alt="Safe Cleaning Products">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Safe Cleaning Products</div>
-                        <div class="trusted-feature-desc">For 30+ years, we’ve restored Persian, Oriental, and antique items with expert care.</div>
+                        <div class="trusted-feature-title">Brooklyn Window Specialists</div>
+                        <div class="trusted-feature-desc">Local experts serving Brooklyn homes with reliable, professional window treatment services you can trust.</div>
                     </div>
                 </div>
                 
@@ -2005,8 +2005,8 @@
                         <img src="/images/services images/What Make Us Trusted/Ontime and Reliable.svg" alt="On-Time and Reliable">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Specialized Techniques</div>
-                        <div class="trusted-feature-desc">Color correction, reweaving, and deep cleaning methods tailored for valuable upholestry.</div>
+                        <div class="trusted-feature-title">Treatment Satisfaction Guarantee</div>
+                        <div class="trusted-feature-desc">We guarantee careful handling and excellent results. Your window treatments' care is our priority.</div>
                     </div>
                 </div>
                 
@@ -2015,8 +2015,8 @@
                         <img src="/images/services images/What Make Us Trusted/We Stand behind our Work.svg" alt="We Stand Behind Our Work">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Preserving Family Heirlooms</div>
-                        <div class="trusted-feature-desc">We understand your window's sentimental and financial value—our work protects both. </div>
+                        <div class="trusted-feature-title">We Stand Behind Our Work</div>
+                        <div class="trusted-feature-desc">Our quality guarantee ensures beautiful results. Committed to excellence in every window service. </div>
                     </div>
                 </div>
             </div>
@@ -2044,8 +2044,8 @@
                 <div class="help-icon">
                     <img src="/images/services images/we are here to help you/special offer.svg" alt="Special offer">
                 </div>
-                <div class="help-title">Special Offer</div>
-                <div class="help-desc">Make a first carpet cleaning service with a 20% discount</div>
+                <div class="help-title">Special Window Treatment Offer</div>
+                <div class="help-desc">Receive 15% off your first window treatment cleaning service. Refresh your view today.</div>
                 <a href="/contact" class="help-button primary-button">Get Quote</a>
             </div>
             
@@ -2053,8 +2053,8 @@
                 <div class="help-icon">
                     <img src="/images/services images/we are here to help you/need quick service.svg" alt="Quick service">
                 </div>
-                <div class="help-title">Need Quick Service?</div>
-                <div class="help-desc">Book today to have your Stained carpet cleaned on the same day</div>
+                <div class="help-title">Need Flexible Scheduling?</div>
+                <div class="help-desc">Book our convenient time slots that work with your family's schedule.</div>
                 <a href="/contact" class="help-button secondary-button">Chat With Us</a>
             </div>
             
@@ -2063,7 +2063,7 @@
                     <img src="/images/services images/we are here to help you/why wait.svg" alt="Why wait">
                 </div>
                 <div class="help-title">Why Wait?</div>
-                <div class="help-desc">Brooklyn's A and B Carpet Cleaner (licensed, bonded and insured)</div>
+                <div class="help-desc">Brooklyn's trusted window treatment experts (licensed, bonded, and insured).</div>
                 <a href="tel:{{ Config::get('page.phone_use') }}" class="help-button primary-button">Call Now</a>
             </div>
         </div>
@@ -2075,9 +2075,9 @@
     <div class="testimonial-container">
         <div class="testimonial-heading">
             <span class="testimonial-title">
-                <span>The Most Reliable </span>
-                <span class="a-and-b">Cleaners</span>
-                <span> of Brooklyn</span>
+                <span>Brooklyn's Most </span>
+                <span class="a-and-b">Reliable Window</span>
+                <span>  Treatment Cleaners</span>
             </span>
         </div>
         
@@ -2224,3 +2224,4 @@
 </section>
 
 @include('inc.footer')
+--new
