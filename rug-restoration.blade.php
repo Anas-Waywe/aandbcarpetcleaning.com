@@ -1704,12 +1704,12 @@
     <div class="hero-content">
         <b class="top-rated-area-rug-container">
             <span class="rated-area-rug-top-rated-area-rug-container">
-                <p class="top-rated-area-rug">Professional Area Rug Restoration in Brooklyn</p>
+                <p class="top-rated-area-rug">Expert Area Rug Restoration in Brooklyn & Across the USA</p>
             </span>
         </b>
         
         <div class="hero-subheading">
-            Bring life back to your treasured rug with expert restoration services designed to protect and enhance its beauty.
+           Professional rug restoration and preservation services that revive your valuable rugs with expert care, precision, and masterful craftsmanship.
         </div>
         
         <a href="tel:{{ Config::get('page.phone_use') }}" class="hero-button">
@@ -1735,8 +1735,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services%20images/icons/Inspection%20%20Dust%20Removal.png" alt="Inspection Icon">
                 </div>
-                <div class="inspection-dust">Inspection </div>
-                <div class="thorough-rug-checkup">Detailed review of rug fibers, colors, and weaving to determine restoration needs.</div>
+                <div class="inspection-dust">Assessment & Testing</div>
+                <div class="thorough-rug-checkup">Detailed evaluation of fiber type, dye stability, and damage to create a customized restoration plan.</div>
             </div>
 
             <!-- Card 2 -->
@@ -1744,8 +1744,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Cleaning.png" alt="Cleaning Icon">
                 </div>
-                <div class="cleaning-title">Deep Cleaning</div>
-                <div class="cleaning-desc">Safe cleaning prepares the rug for re-dyeing, patching, or reweaving.</div>
+                <div class="cleaning-title">Deep Cleaning & Stain Removal</div>
+                <div class="cleaning-desc">Specialized cleaning techniques that safely remove deep dirt, stains, and odors without damaging fibers.</div>
             </div>
 
             <!-- Card 3 -->
@@ -1753,8 +1753,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Stain Odor Treatment.png" alt="Stain & Odor Icon">
                 </div>
-                <div class="stain-odor-title">Structural Restoration</div>
-                <div class="stain-odor-desc">Color correction, pile rebuilding, and repairs to restore original charm.</div>
+                <div class="stain-odor-title">Structural Repair & Reweaving</div>
+                <div class="stain-odor-desc">Expert repair of holes, tears, and worn areas using traditional reweaving and patching techniques.</div>
             </div>
 
             <!-- Card 4 -->
@@ -1762,8 +1762,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Drying Grooming.png" alt="Drying Icon">
                 </div>
-                <div class="drying-grooming-title">Preservation</div>
-                <div class="drying-grooming-desc">Final grooming and protective treatments extend rug longevity.</div>
+                <div class="drying-grooming-title">Color Restoration & Protection</div>
+                <div class="drying-grooming-desc">Careful color correction and application of protective treatments to preserve your restored rug's beauty.</div>
             </div>
         </div>
     </div>
@@ -1791,7 +1791,7 @@
                 </div>
                 
                 <div class="why-professional-description">
-                    <p>Rugs lose their vibrancy over time due to wear, stains, and fading. DIY attempts may damage fibers permanently. With A and B Carpet Cleaning, you benefit from:</p>
+                    <p>Years of soil, sun exposure, and wear degrade fibers and fade colors, diminishing the beauty and value of your valuable investment. Choosing A and B Carpet Cleaning ensures:</p>
                 </div>
                 
                 <div class="why-professional-features">
@@ -1799,28 +1799,28 @@
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Deep cleaning" src="/images/services images/why professional section/Deep Cleaning.svg">
                          </div>
-                         <div class="feature-text">Color renewal and fiber care</div>
+                         <div class="feature-text">Revitalization of faded colors and dull fibers</div>
                      </div>
                      
                      <div class="feature-item">
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Remove stains and odors" src="/images/services images/why professional section/Remove Stains and Odors.svg">
                          </div>
-                         <div class="feature-text">Eco-friendly cleaning methods</div>
+                         <div class="feature-text">Expert repair of significant wear and damage</div>
                      </div>
                      
                      <div class="feature-item">
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Eco-friendly products" src="/images/services images/why professional section/Eco Friendly Products.svg">
                          </div>
-                         <div class="feature-text">Increased rug durability and value</div>
+                         <div class="feature-text">Specialized deep cleaning for heirloom rugs</div>
                      </div>
                      
                      <div class="feature-item">
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Protecting delicate fibers" src="/images/services images/why professional section/Protecting Delicate Fibers.svg">
                          </div>
-                         <div class="feature-text">Authentic restoration techniques</div>
+                         <div class="feature-text">Restoration of your rug’s original beauty and worth</div>
                      </div>
                 </div>
             </div>
@@ -1869,11 +1869,11 @@
                     <span class="why-choose-title">
                         <span>Why Choose </span>
                         <span class="a-and-b">A and B</span>
-                        <span> Carpet?</span>
+                        <span> Carpet Cleaning?</span>
                     </span>
                 </div>
                 <div class="why-choose-description">
-                    We are the go-to damage repair specialists in Brooklyn and throughout the USA for many reasons:
+                   We're recognized as the premier area rug restoration service in Brooklyn and throughout the USA because we provide:
                 </div>
             </div>
         </div>
@@ -1881,23 +1881,23 @@
             <div class="why-choose-features">
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Safe, eco-friendly processes</div>
+                    <div class="feature-text">Over 30 Years of Experience</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Affordable and transparent pricing</div>
+                    <div class="feature-text">Masterful Restoration Techniques</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Emergency response for urgent cases</div>
+                    <div class="feature-text">Transparent Pricing & Evaluation</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">30+ years of restoration expertise</div>
+                    <div class="feature-text">Satisfaction Guaranteed</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Professional installers who get it right the first time</div>
+                    <div class="feature-text">Professional & Insured</div>
                 </div>
             </div>
         </div>
@@ -1984,8 +1984,8 @@
                         <img src="/images/services images/What Make Us Trusted/Years of Experience.svg" alt="Years of Experience">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Years of Experience</div>
-                        <div class="trusted-feature-desc"> Three decades repairing water and fire damage in Brooklyn.</div>
+                        <div class="trusted-feature-title">Master Restoration Craftsmanship</div>
+                        <div class="trusted-feature-desc"> Our artisans combine traditional techniques with modern technology for flawless restoration results.</div>
                     </div>
                 </div>
                 
@@ -1994,8 +1994,8 @@
                         <img src="/images/services images/What Make Us Trusted/Safe Cleaning Products.svg" alt="Safe Cleaning Products">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Safe Cleaning Products</div>
-                        <div class="trusted-feature-desc">For 30+ years, we’ve restored Persian, Oriental, and antique rugs with expert care.</div>
+                        <div class="trusted-feature-title">Locally Trusted Brooklyn Experts</div>
+                        <div class="trusted-feature-desc">Brooklyn's trusted rug restoration specialists bringing museum-quality care to homes throughout the borough.</div>
                     </div>
                 </div>
                 
@@ -2004,8 +2004,8 @@
                         <img src="/images/services images/What Make Us Trusted/Ontime and Reliable.svg" alt="On-Time and Reliable">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Specialized Techniques</div>
-                        <div class="trusted-feature-desc">Color correction, reweaving, and deep cleaning methods tailored for valuable rugs.</div>
+                        <div class="trusted-feature-title">Our Preservation Guarantee</div>
+                        <div class="trusted-feature-desc">We guarantee careful handling and lasting results. Your rug's preservation is our highest priority.</div>
                     </div>
                 </div>
                 
@@ -2014,8 +2014,8 @@
                         <img src="/images/services images/What Make Us Trusted/We Stand behind our Work.svg" alt="We Stand Behind Our Work">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Preserving Family Heirlooms</div>
-                        <div class="trusted-feature-desc">We understand your rug’s sentimental and financial value—our work protects both.</div>
+                        <div class="trusted-feature-title">We Stand Behind Our Work</div>
+                        <div class="trusted-feature-desc">Our craftsmanship ensures your rug's longevity. Committed to excellence in every restoration project.</div>
                     </div>
                 </div>
             </div>
@@ -2044,7 +2044,7 @@
                     <img src="/images/services images/we are here to help you/special offer.svg" alt="Special offer">
                 </div>
                 <div class="help-title">Special Offer</div>
-                <div class="help-desc">Make a first carpet cleaning service with a 20% discount</div>
+                <div class="help-desc">Receive 15% off complete restoration services. Revive your cherished rug today.</div>
                 <a href="/contact" class="help-button primary-button">Get Quote</a>
             </div>
             
@@ -2052,8 +2052,8 @@
                 <div class="help-icon">
                     <img src="/images/services images/we are here to help you/need quick service.svg" alt="Quick service">
                 </div>
-                <div class="help-title">Need Quick Service?</div>
-                <div class="help-desc">Book today to have your Stained carpet cleaned on the same day</div>
+                <div class="help-title">Need Urgent Restoration?</div>
+                <div class="help-desc">Book your consultation for emergency stain removal and damage assessment.</div>
                 <a href="/contact" class="help-button secondary-button">Chat With Us</a>
             </div>
             
@@ -2062,7 +2062,7 @@
                     <img src="/images/services images/we are here to help you/why wait.svg" alt="Why wait">
                 </div>
                 <div class="help-title">Why Wait?</div>
-                <div class="help-desc">Brooklyn's A and B Carpet Cleaner (licensed, bonded and insured)</div>
+                <div class="help-desc">Brooklyn's trusted rug restoration experts (licensed, bonded, and insured).</div>
                 <a href="tel:{{ Config::get('page.phone_use') }}" class="help-button primary-button">Call Now</a>
             </div>
         </div>
@@ -2074,9 +2074,9 @@
     <div class="testimonial-container">
         <div class="testimonial-heading">
             <span class="testimonial-title">
-                <span>The Most Reliable </span>
-                <span class="a-and-b">Cleaners</span>
-                <span> of Brooklyn</span>
+                <span>Brooklyn's Most Reliable </span>
+                <span class="a-and-b">Rug</span>
+                <span> Restoration Artisans</span>
             </span>
         </div>
         
@@ -2223,3 +2223,4 @@
 </style>
 
 @include('inc.footer')
+-new
