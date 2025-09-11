@@ -1704,12 +1704,12 @@
     <div class="hero-content">
         <b class="top-rated-area-rug-container">
             <span class="rated-area-rug-top-rated-area-rug-container">
-                <p class="top-rated-area-rug">Water and Fire Damage Repair in Brooklyn</p>
+                <p class="top-rated-area-rug">Expert Water & Fire Damage Restoration in Brooklyn</p>
             </span>
         </b>
         
         <div class="hero-subheading">
-            When disaster strikes, we restore your carpets and rugs back to life.
+          Professional restoration services rescue property from water and fire damage with certified expertise.
         </div>
         
         <a href="tel:{{ Config::get('page.phone_use') }}" class="hero-button">
@@ -1735,8 +1735,9 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services%20images/icons/Inspection%20%20Dust%20Removal.png" alt="Inspection Icon">
                 </div>
-                <div class="inspection-dust">Assessment</div>
-                <div class="thorough-rug-checkup">We evaluate the damage and decide the best restoration method.</div>
+                <div class="inspection-dust">Inspection & Damage Assessment</div>
+                <div class="thorough-rug-checkup">Thorough evaluation of damage to create a customized restoration plan.
+</div>
             </div>
 
             <!-- Card 2 -->
@@ -1744,8 +1745,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Cleaning.png" alt="Cleaning Icon">
                 </div>
-                <div class="cleaning-title">Water Extraction</div>
-                <div class="cleaning-desc">Powerful equipment removes water and prevents mold growth.</div>
+                <div class="cleaning-title">Water Extraction & Drying</div>
+                <div class="cleaning-desc">Powerful equipment removes water and thoroughly dries affected areas.</div>
             </div>
 
             <!-- Card 3 -->
@@ -1753,8 +1754,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Stain Odor Treatment.png" alt="Stain & Odor Icon">
                 </div>
-                <div class="stain-odor-title">Deep Sanitization</div>
-                <div class="stain-odor-desc">Thorough cleaning to eliminate smoke, soot, and odors from carpets and rugs.</div>
+                <div class="stain-odor-title">Cleaning & Sanitizing</div>
+                <div class="stain-odor-desc">Deep cleaning, sanitizing, and deodorizing with eco-friendly solutions.</div>
             </div>
 
             <!-- Card 4 -->
@@ -1762,8 +1763,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Drying Grooming.png" alt="Drying Icon">
                 </div>
-                <div class="drying-grooming-title">Restoration</div>
-                <div class="drying-grooming-desc">Re-stretching, patching, and restoring fibers for a fresh look.</div>
+                <div class="drying-grooming-title">Mold Prevention & Restoration</div>
+                <div class="drying-grooming-desc">Anti-microbial treatment prevents mold and restores your property.</div>
             </div>
         </div>
     </div>
@@ -1786,12 +1787,13 @@
                     <span class="why-professional-heading-text">
                         <span>Why </span>
                         <span class="professional">Professional</span>
-                        <span> Damage Repair is Important?</span>
+                        <span> Damage Restoration is Important?</span>
                     </span>
                 </div>
                 
                 <div class="why-professional-description">
-                    <p>Water and fire damage can leave hidden issues like mold, smoke toxins, and weakened fibers. A DIY attempt might make it worse. When you choose A and B Carpet Cleaning, you receive: </p>
+                    <p>Ignoring water or fire damage leads to mold, odors, and structural issues, risking health and greater loss. Choosing A & B Carpet Cleaning ensures:
+ </p>
                 </div>
                 
                 <div class="why-professional-features">
@@ -1799,28 +1801,28 @@
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Deep cleaning" src="/images/services images/why professional section/Deep Cleaning.svg">
                          </div>
-                         <div class="feature-text">Deep odor and stain removal</div>
+                         <div class="feature-text">Rapid water extraction</div>
                      </div>
                      
                      <div class="feature-item">
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Remove stains and odors" src="/images/services images/why professional section/Remove Stains and Odors.svg">
                          </div>
-                         <div class="feature-text">Full restoration to extend carpet life</div>
+                         <div class="feature-text">Thorough sanitization</div>
                      </div>
                      
                      <div class="feature-item">
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Eco-friendly products" src="/images/services images/why professional section/Eco Friendly Products.svg">
                          </div>
-                         <div class="feature-text">Safe, eco-friendly restoration products</div>
+                         <div class="feature-text">Mold and Mildew prevention</div>
                      </div>
                      
                      <div class="feature-item">
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Protecting delicate fibers" src="/images/services images/why professional section/Protecting Delicate Fibers.svg">
                          </div>
-                         <div class="feature-text">Advanced water extraction technology</div>
+                         <div class="feature-text">Property’s safety and value restoration</div>
                      </div>
                 </div>
             </div>
@@ -1869,11 +1871,11 @@
                     <span class="why-choose-title">
                         <span>Why Choose </span>
                         <span class="a-and-b">A and B</span>
-                        <span> Carpet?</span>
+                        <span> Carpet Cleaning?</span>
                     </span>
                 </div>
                 <div class="why-choose-description">
-                    We are the go-to damage repair specialists in Brooklyn and throughout the USA for many reasons:
+                    We’re recognized as the top damage restoration service in Brooklyn and throughout the USA because we provide:
                 </div>
             </div>
         </div>
@@ -1881,23 +1883,23 @@
             <div class="why-choose-features">
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Affordable and honest pricing</div>
+                    <div class="feature-text">24/7 emergency response for urgent help</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Emergency response for urgent cases</div>
+                    <div class="feature-text">Advanced restoration technology and methods</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Green-cleaning and safe products</div>
+                    <div class="feature-text">Transparent pricing with no hidden fees</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">30+ years of restoration expertise</div>
+                    <div class="feature-text">Satisfaction guaranteed on all services</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Professional installers who get it right the first time</div>
+                    <div class="feature-text">Certified and insured professional team</div>
                 </div>
             </div>
         </div>
@@ -1984,8 +1986,9 @@
                         <img src="/images/services images/What Make Us Trusted/Years of Experience.svg" alt="Years of Experience">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Years of Experience</div>
-                        <div class="trusted-feature-desc"> Three decades repairing water and fire damage in Brooklyn.</div>
+                        <div class="trusted-feature-title">Advanced Restoration Technology</div>
+                        <div class="trusted-feature-desc"> We use industrial-grade equipment for water extraction, drying, and sanitizing.
+</div>
                     </div>
                 </div>
                 
@@ -1994,8 +1997,10 @@
                         <img src="/images/services images/What Make Us Trusted/Safe Cleaning Products.svg" alt="Safe Cleaning Products">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Safe Cleaning Products</div>
-                        <div class="trusted-feature-desc">Eco-friendly and safe for homes with kids and pets.</div>
+                        <div class="trusted-feature-title">Locally Trusted Brooklyn Experts
+</div>
+                        <div class="trusted-feature-desc">Brooklyn’s trusted restoration specialists bring rapid response and expert care.
+</div>
                     </div>
                 </div>
                 
@@ -2004,8 +2009,9 @@
                         <img src="/images/services images/What Make Us Trusted/Ontime and Reliable.svg" alt="On-Time and Reliable">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">On-Time and Reliable</div>
-                        <div class="trusted-feature-desc">We respond quickly and restore efficiently.</div>
+                        <div class="trusted-feature-title">Our Satisfaction Guarantee</div>
+                        <div class="trusted-feature-desc">We guarantee thorough restoration and address all concerns.
+</div>
                     </div>
                 </div>
                 
@@ -2014,8 +2020,8 @@
                         <img src="/images/services images/What Make Us Trusted/We Stand behind our Work.svg" alt="We Stand Behind Our Work">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Commitment to Excellence</div>
-                        <div class="trusted-feature-desc">If you’re not satisfied, we’ll clean again—your comfort and clean air are our top priorities.</div>
+                        <div class="trusted-feature-title">We Stand Behind Our Work</div>
+                        <div class="trusted-feature-desc">Our quality guarantee ensures beautiful results. Committed to excellence in every upholstery service.</div>
                     </div>
                 </div>
             </div>
@@ -2043,8 +2049,8 @@
                 <div class="help-icon">
                     <img src="/images/services images/we are here to help you/special offer.svg" alt="Special offer">
                 </div>
-                <div class="help-title">Special Offer</div>
-                <div class="help-desc">Make a first carpet cleaning service with a 20% discount</div>
+                <div class="help-title">Special Upholstery Offer</div>
+                <div class="help-desc">Receive 15% off your first upholstery cleaning service. Refresh your furniture today.</div>
                 <a href="/contact" class="help-button primary-button">Get Quote</a>
             </div>
             
@@ -2052,8 +2058,8 @@
                 <div class="help-icon">
                     <img src="/images/services images/we are here to help you/need quick service.svg" alt="Quick service">
                 </div>
-                <div class="help-title">Need Quick Service?</div>
-                <div class="help-desc">Book today to have your Stained carpet cleaned on the same day</div>
+                <div class="help-title">Need Flexible Scheduling?</div>
+                <div class="help-desc">Book our convenient time slots that work with your schedule.</div>
                 <a href="/contact" class="help-button secondary-button">Chat With Us</a>
             </div>
             
@@ -2062,7 +2068,7 @@
                     <img src="/images/services images/we are here to help you/why wait.svg" alt="Why wait">
                 </div>
                 <div class="help-title">Why Wait?</div>
-                <div class="help-desc">Brooklyn's A and B Carpet Cleaner (licensed, bonded and insured)</div>
+                <div class="help-desc">Brooklyn's trusted upholstery cleaning experts (licensed, bonded, and insured).</div>
                 <a href="tel:{{ Config::get('page.phone_use') }}" class="help-button primary-button">Call Now</a>
             </div>
         </div>
@@ -2074,9 +2080,9 @@
     <div class="testimonial-container">
         <div class="testimonial-heading">
             <span class="testimonial-title">
-                <span>The Most Reliable </span>
-                <span class="a-and-b">Cleaners</span>
-                <span> of Brooklyn</span>
+                <span>Brooklyn's Most </span>
+                <span class="a-and-b">Reliable Upholstery</span>
+                <span> Cleaners</span>
             </span>
         </div>
         
@@ -2222,3 +2228,4 @@
     </div>
 </section>
 @include('inc.footer')
+-new
