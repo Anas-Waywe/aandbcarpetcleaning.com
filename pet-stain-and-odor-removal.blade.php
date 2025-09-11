@@ -1704,12 +1704,12 @@
     <div class="hero-content">
         <b class="top-rated-area-rug-container">
             <span class="rated-area-rug-top-rated-area-rug-container">
-                <p class="top-rated-area-rug">Pet Stain and Odor Removal Experts in Brooklyn</p>
+                <p class="top-rated-area-rug">Expert Pet Stain & Odor Removal in Brooklyn & Across the USA</p>
             </span>
         </b>
         
         <div class="hero-subheading">
-            Love your pets, but not the mess? We have got you covered.
+          Professional pet accident cleaning services that completely eliminate stains and odors with specialized treatments.
         </div>
         
         <a href="tel:{{ Config::get('page.phone_use') }}" class="hero-button">
@@ -1724,7 +1724,7 @@
         <div class="our-step-by-step-area-container">
             <span class="our-step-by-step-area-our-step-by-step-area-container">
                 <span>Our Step-by-Step </span>
-                <span class="area-rug">Pet Stain & Odor</span>
+                <span class="area-rug">Pet Stain</span>
                 <span> Removal Process</span>
             </span>
         </div>
@@ -1735,8 +1735,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services%20images/icons/Inspection%20%20Dust%20Removal.png" alt="Inspection Icon">
                 </div>
-                <div class="inspection-dust">Detection</div>
-                <div class="thorough-rug-checkup">We identify hidden stains and odors, even those trapped deep in fibers.</div>
+                <div class="inspection-dust">Inspection & Urine Detection</div>
+                <div class="thorough-rug-checkup">Comprehensive assessment using UV lights to identify all affected areas, including hidden urine deposits.</div>
             </div>
 
             <!-- Card 2 -->
@@ -1744,8 +1744,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Cleaning.png" alt="Cleaning Icon">
                 </div>
-                <div class="cleaning-title">Stain Treatment</div>
-                <div class="cleaning-desc">Specialized cleaning solutions target tough stains like urine, vomit, and mud.</div>
+                <div class="cleaning-title">Enzyme Treatment Application</div>
+                <div class="cleaning-desc">Specialized enzyme solutions that break down urine crystals and eliminate odor-causing bacteria at the source.</div>
             </div>
 
             <!-- Card 3 -->
@@ -1753,8 +1753,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Stain Odor Treatment.png" alt="Stain & Odor Icon">
                 </div>
-                <div class="stain-odor-title">Odor Neutralization</div>
-                <div class="stain-odor-desc">Advanced deodorizers remove bad smells at the source, not just mask them.</div>
+                <div class="stain-odor-title">Deep Cleaning & Sanitizing</div>
+                <div class="stain-odor-desc">Advanced cleaning that removes stains and sanitizes areas to prevent microbial growth and recurring odors.</div>
             </div>
 
             <!-- Card 4 -->
@@ -1762,8 +1762,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Drying Grooming.png" alt="Drying Icon">
                 </div>
-                <div class="drying-grooming-title">Deep Cleaning</div>
-                <div class="drying-grooming-desc">Steam or shampoo cleaning leaves carpets and rugs fresh, soft, and odor-free.</div>
+                <div class="drying-grooming-title">Odor Sealant Protection</div>
+                <div class="drying-grooming-desc">Application of protective treatments that create a barrier against future accidents and odors.</div>
             </div>
         </div>
     </div>
@@ -1786,12 +1786,12 @@
                     <span class="why-professional-heading-text">
                         <span>Why </span>
                         <span class="professional">Professional</span>
-                        <span> Pet Stain & Odor Removal is Important?</span>
+                        <span> Pet Stain Removal is Important?</span>
                     </span>
                 </div>
                 
                 <div class="why-professional-description">
-                    <p>Store-bought cleaners often hide odors but don’t fully remove them. Deep-set pet stains can damage fibers and leave lasting smells. When you choose A and B Carpet Cleaning, you receive:</p>
+                    <p>DIY cleaning often spreads urine deeper and leaves odors that attract pets back to the same spots. Choosing A and B Carpet Cleaning ensures:</p>
                 </div>
                 
                 <div class="why-professional-features">
@@ -1799,28 +1799,28 @@
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Deep cleaning" src="/images/services images/why professional section/Deep Cleaning.svg">
                          </div>
-                         <div class="feature-text">Safe cleaning for kids and pets</div>
+                         <div class="feature-text">Complete elimination of urine odors and stains</div>
                      </div>
                      
                      <div class="feature-item">
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Remove stains and odors" src="/images/services images/why professional section/Remove Stains and Odors.svg">
                          </div>
-                         <div class="feature-text">Restored freshness and beauty to carpets and rugs</div>
+                         <div class="feature-text">Prevention of recurring pet accidents in same areas</div>
                      </div>
                      
                      <div class="feature-item">
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Eco-friendly products" src="/images/services images/why professional section/Eco Friendly Products.svg">
                          </div>
-                         <div class="feature-text">Complete stain and odor elimination</div>
+                         <div class="feature-text">Sanitization of affected areas for family health</div>
                      </div>
                      
                      <div class="feature-item">
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Protecting delicate fibers" src="/images/services images/why professional section/Protecting Delicate Fibers.svg">
                          </div>
-                         <div class="feature-text">Eco-friendly products with no toxic residue</div>
+                         <div class="feature-text">Protection of your flooring and subflooring</div>
                      </div>
                 </div>
             </div>
@@ -1869,11 +1869,11 @@
                     <span class="why-choose-title">
                         <span>Why Choose </span>
                         <span class="a-and-b">A and B</span>
-                        <span> Carpet?</span>
+                        <span> Carpet Cleaning?</span>
                     </span>
                 </div>
                 <div class="why-choose-description">
-                    We are the go-to damage repair specialists in Brooklyn and throughout the USA for many reasons:
+                  We're recognized as the leading pet stain removal service in Brooklyn and throughout the USA because we provide:
                 </div>
             </div>
         </div>
@@ -1881,23 +1881,23 @@
             <div class="why-choose-features">
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Safe, eco-friendly, and non-toxic treatments</div>
+                    <div class="feature-text">30+ Years Pet Stain Experience</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Affordable and transparent pricing</div>
+                    <div class="feature-text">Pet-Safe Enzyme Treatments</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Emergency response for urgent cases</div>
+                    <div class="feature-text">Transparent Pricing & Quotes</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Trusted by pet owners across Brooklyn</div>
+                    <div class="feature-text">Satisfaction Guaranteed</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Professional installers who get it right the first time</div>
+                    <div class="feature-text">Fully Insured & Bonded</div>
                 </div>
             </div>
         </div>
@@ -1984,8 +1984,8 @@
                         <img src="/images/services images/What Make Us Trusted/Years of Experience.svg" alt="Years of Experience">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Years of Experience</div>
-                        <div class="trusted-feature-desc">Decades of specialized stain and odor removal services.</div>
+                        <div class="trusted-feature-title">Pet Stain Removal Expertise</div>
+                        <div class="trusted-feature-desc">Our team specializes in pet accident cleanup, understanding the unique challenges of urine and feces removal.</div>
                     </div>
                 </div>
                 
@@ -1994,8 +1994,8 @@
                         <img src="/images/services images/What Make Us Trusted/Safe Cleaning Products.svg" alt="Safe Cleaning Products">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Safe Cleaning Products</div>
-                        <div class="trusted-feature-desc">Eco-friendly, safe for your furry friends and family.</div>
+                        <div class="trusted-feature-title">Brooklyn Pet Stain Specialists</div>
+                        <div class="trusted-feature-desc">Local experts serve Brooklyn pet owners with reliable, Expert odor removal services you can trust.</div>
                     </div>
                 </div>
                 
@@ -2004,8 +2004,8 @@
                         <img src="/images/services images/What Make Us Trusted/Ontime and Reliable.svg" alt="On-Time and Reliable">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">On-Time and Reliable</div>
-                        <div class="trusted-feature-desc">We show up as promised, ready to restore freshness.</div>
+                        <div class="trusted-feature-title">Pet-Safe Satisfaction Guarantee</div>
+                        <div class="trusted-feature-desc">We guarantee complete odor removal. Your pet's safety and your satisfaction are our priority.</div>
                     </div>
                 </div>
                 
@@ -2015,7 +2015,7 @@
                     </div>
                     <div class="trusted-feature-content">
                         <div class="trusted-feature-title">We Stand Behind Our Work</div>
-                        <div class="trusted-feature-desc">If odors or stains remain, we’ll re-treat until you’re satisfied.</div>
+                        <div class="trusted-feature-desc">Our odor-free guarantee ensures lasting results. Committed to excellence in every pet stain service.</div>
                     </div>
                 </div>
             </div>
@@ -2043,8 +2043,8 @@
                 <div class="help-icon">
                     <img src="/images/services images/we are here to help you/special offer.svg" alt="Special offer">
                 </div>
-                <div class="help-title">Special Offer</div>
-                <div class="help-desc">Make a first carpet cleaning service with a 20% discount</div>
+                <div class="help-title">Special Pet Stain Offer</div>
+                <div class="help-desc">Receive 15% off your first pet stain treatment service. Eliminate odors today.</div>
                 <a href="/contact" class="help-button primary-button">Get Quote</a>
             </div>
             
@@ -2052,8 +2052,8 @@
                 <div class="help-icon">
                     <img src="/images/services images/we are here to help you/need quick service.svg" alt="Quick service">
                 </div>
-                <div class="help-title">Need Quick Service?</div>
-                <div class="help-desc">Book today to have your Stained carpet cleaned on the same day</div>
+                <div class="help-title">Need Emergency Service?</div>
+                <div class="help-desc">Book our rapid response team for fresh pet accident cleanup and treatment.</div>
                 <a href="/contact" class="help-button secondary-button">Chat With Us</a>
             </div>
             
@@ -2062,7 +2062,7 @@
                     <img src="/images/services images/we are here to help you/why wait.svg" alt="Why wait">
                 </div>
                 <div class="help-title">Why Wait?</div>
-                <div class="help-desc">Brooklyn's A and B Carpet Cleaner (licensed, bonded and insured)</div>
+                <div class="help-desc">Brooklyn's trusted pet stain removal experts (licensed, bonded, and insured).</div>
                 <a href="tel:{{ Config::get('page.phone_use') }}" class="help-button primary-button">Call Now</a>
             </div>
         </div>
@@ -2074,9 +2074,9 @@
     <div class="testimonial-container">
         <div class="testimonial-heading">
             <span class="testimonial-title">
-                <span>The Most Reliable </span>
-                <span class="a-and-b">Cleaners</span>
-                <span> of Brooklyn</span>
+                <span>Brooklyn's Most </span>
+                <span class="a-and-b">Reliable Pet</span>
+                <span> Stain Eliminators</span>
             </span>
         </div>
         
@@ -2222,3 +2222,4 @@
     </div>
 </section>
 @include('inc.footer')
+--new
