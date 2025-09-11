@@ -1704,12 +1704,12 @@
     <div class="hero-content">
         <b class="top-rated-area-rug-container">
             <span class="rated-area-rug-top-rated-area-rug-container">
-                <p class="top-rated-area-rug">Expert Upholstery Cleaning in Brooklyn</p>
+                <p class="top-rated-area-rug">Expert Upholstery Cleaning in Brooklyn & Across the USA</p>
             </span>
         </b>
         
         <div class="hero-subheading">
-            Bring back the comfort, color, and freshness of your furniture.
+        Professional upholstery cleaning services that refresh and protect your furniture with careful attention and advanced techniques.
         </div>
         
         <a href="tel:{{ Config::get('page.phone_use') }}" class="hero-button">
@@ -1735,8 +1735,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services%20images/icons/Inspection%20%20Dust%20Removal.png" alt="Inspection Icon">
                 </div>
-                <div class="inspection-dust">Inspection</div>
-                <div class="thorough-rug-checkup">We check material type (cotton, leather, microfiber) to ensure the right method.</div>
+                <div class="inspection-dust">Fabric Inspection & Testing</div>
+                <div class="thorough-rug-checkup">Evaluation of material type, color fastness, and soiling to determine the ideal cleaning method.</div>
             </div>
 
             <!-- Card 2 -->
@@ -1744,8 +1744,9 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Cleaning.png" alt="Cleaning Icon">
                 </div>
-                <div class="cleaning-title">Deep Cleaning</div>
-                <div class="cleaning-desc">Special tools safely remove dirt, dust, and stains from furniture.</div>
+                <div class="cleaning-title">Specialized Deep Cleaning</div>
+                <div class="cleaning-desc">Advanced techniques and solutions specifically formulated for different fabric types and conditions.
+</div>
             </div>
 
             <!-- Card 3 -->
@@ -1753,8 +1754,10 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Stain Odor Treatment.png" alt="Stain & Odor Icon">
                 </div>
-                <div class="stain-odor-title">Stain Removal</div>
-                <div class="stain-odor-desc">We tackle pet accidents, food spills, and musty odors.</div>
+                <div class="stain-odor-title">Stain & Spot Treatment
+</div>
+                <div class="stain-odor-desc">Targeted treatment for stubborn stains, spills, and odors using appropriate cleaning agents.
+</div>
             </div>
 
             <!-- Card 4 -->
@@ -1762,8 +1765,9 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Drying Grooming.png" alt="Drying Icon">
                 </div>
-                <div class="drying-grooming-title">Drying </div>
-                <div class="drying-grooming-desc">Quick drying and optional protective coating for long-lasting freshness.</div>
+                <div class="drying-grooming-title">Protective Application</div>
+                <div class="drying-grooming-desc">Application of fabric protector to guard against future stains and extend cleaning results.
+</div>
             </div>
         </div>
     </div>
@@ -1791,8 +1795,7 @@
                 </div>
                 
                 <div class="why-professional-description">
-                    <p>DIY scrubbing risks discoloration, shrinking, or damage to delicate fabrics. With A and B Carpet Cleaning, you benefit from:
-</p>
+                    <p>Regular use embeds dirt and oils that break down fibers and cause premature wear. Choosing A and B Carpet Cleaning ensures:</p>
                 </div>
                 
                 <div class="why-professional-features">
@@ -1800,28 +1803,28 @@
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Deep cleaning" src="/images/services images/why professional section/Deep Cleaning.svg">
                          </div>
-                         <div class="feature-text">Longer furniture lifespan</div>
+                         <div class="feature-text">Deep cleaning of ground-in dirt and stains</div>
                      </div>
                      
                      <div class="feature-item">
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Remove stains and odors" src="/images/services images/why professional section/Remove Stains and Odors.svg">
                          </div>
-                         <div class="feature-text">A cleaner, fresher home</div>
+                         <div class="feature-text">Removal of allergens and bacteria from fabric</div>
                      </div>
                      
                      <div class="feature-item">
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Eco-friendly products" src="/images/services images/why professional section/Eco Friendly Products.svg">
                          </div>
-                         <div class="feature-text">Safe cleaning for delicate fabrics</div>
+                         <div class="feature-text">Restoration of fabric appearance and texture</div>
                      </div>
                      
                      <div class="feature-item">
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Protecting delicate fibers" src="/images/services images/why professional section/Protecting Delicate Fibers.svg">
                          </div>
-                         <div class="feature-text">Removal of allergens hiding in cushions</div>
+                         <div class="feature-text">Protection of your furniture investment</div>
                      </div>
                 </div>
             </div>
@@ -1870,11 +1873,12 @@
                     <span class="why-choose-title">
                         <span>Why Choose </span>
                         <span class="a-and-b">A and B</span>
-                        <span> Carpet?</span>
+                        <span> Carpet Cleaning?</span>
                     </span>
                 </div>
                 <div class="why-choose-description">
-                    We are the go-to damage repair specialists in Brooklyn and throughout the USA for many reasons:
+                   We're recognized as the leading upholstery cleaning service in Brooklyn and throughout the USA because we provide:
+
                 </div>
             </div>
         </div>
@@ -1882,23 +1886,23 @@
             <div class="why-choose-features">
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Over 30 years of upholstery cleaning expertise</div>
+                    <div class="feature-text">30+ Years Upholstery Experience</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Specialists in sofas, chairs, drapes, and mattresses</div>
+                    <div class="feature-text">Fabric-Specific Cleaning Methods</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Removal of allergens hiding in cushions</div>
+                    <div class="feature-text">Transparent Pricing & Quotes</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Eco-friendly and fabric-safe products</div>
+                    <div class="feature-text">Satisfaction Guaranteed</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Professional installers who get it right the first time</div>
+                    <div class="feature-text">Fully Insured & Bonded</div>
                 </div>
             </div>
         </div>
@@ -1985,8 +1989,8 @@
                         <img src="/images/services images/What Make Us Trusted/Years of Experience.svg" alt="Years of Experience">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Years of Experience</div>
-                        <div class="trusted-feature-desc"> Three decades repairing water and fire damage in Brooklyn.</div>
+                        <div class="trusted-feature-title">Upholstery Cleaning Expertise</div>
+                        <div class="trusted-feature-desc"> Our team specializes in all fabric types, understanding the unique needs of different furniture materials.</div>
                     </div>
                 </div>
                 
@@ -1995,8 +1999,8 @@
                         <img src="/images/services images/What Make Us Trusted/Safe Cleaning Products.svg" alt="Safe Cleaning Products">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Safe Cleaning Products</div>
-                        <div class="trusted-feature-desc">For 30+ years, we’ve restored Persian, Oriental, and antique rugs with expert care.</div>
+                        <div class="trusted-feature-title">Brooklyn Upholstery Specialists</div>
+                        <div class="trusted-feature-desc">Local experts serving Brooklyn homes with reliable, professional upholstery services you can trust.</div>
                     </div>
                 </div>
                 
@@ -2005,8 +2009,9 @@
                         <img src="/images/services images/What Make Us Trusted/Ontime and Reliable.svg" alt="On-Time and Reliable">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Specialized Techniques</div>
-                        <div class="trusted-feature-desc">Color correction, reweaving, and deep cleaning methods tailored for valuable rugs.</div>
+                        <div class="trusted-feature-title">Fabric Satisfaction Guarantee</div>
+                        <div class="trusted-feature-desc">We guarantee careful treatment and excellent results. Your furniture's care is our priority.
+</div>
                     </div>
                 </div>
                 
@@ -2015,8 +2020,9 @@
                         <img src="/images/services images/What Make Us Trusted/We Stand behind our Work.svg" alt="We Stand Behind Our Work">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Preserving Family Heirlooms</div>
-                        <div class="trusted-feature-desc">We understand your rug’s sentimental and financial value—our work protects both. </div>
+                        <div class="trusted-feature-title">We Stand Behind Our Work</div>
+                        <div class="trusted-feature-desc">Our quality guarantee ensures beautiful results. Committed to excellence in every upholstery service.
+ </div>
                     </div>
                 </div>
             </div>
@@ -2224,3 +2230,4 @@
 </section>
 
 @include('inc.footer')
+-new
