@@ -1704,13 +1704,13 @@
     <div class="hero-content">
         <b class="top-rated-area-rug-container">
             <span class="rated-area-rug-top-rated-area-rug-container">
-                <p class="top-rated-area-rug">Top-Rated Area Rug Cleaning </p>
-                <p class="top-rated-area-rug">Service in Brooklyn</p>
+                <p class="top-rated-area-rug">Expert Area Rug Cleaning</p>
+                <p class="top-rated-area-rug"> in Brooklyn</p>
             </span>
         </b>
         
         <div class="hero-subheading">
-            Area rugs add warmth, comfort to any home
+        Your valuable rugs deserve our expert Brooklyn restoration care.
         </div>
         
         <a href="tel:{{ Config::get('page.phone_use') }}" class="hero-button">
@@ -1736,8 +1736,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services%20images/icons/Inspection%20%20Dust%20Removal.png" alt="Inspection Icon">
                 </div>
-                <div class="inspection-dust">Inspection & Dust Removal</div>
-                <div class="thorough-rug-checkup">Thorough rug checkup with deep dust removal using specialized equipment</div>
+                <div class="inspection-dust">Inspection & Assessment</div>
+                <div class="thorough-rug-checkup">Our experts inspect fiber type, dye stability, and all damage.</div>
             </div>
 
             <!-- Card 2 -->
@@ -1745,8 +1745,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Cleaning.png" alt="Cleaning Icon">
                 </div>
-                <div class="cleaning-title">Cleaning</div>
-                <div class="cleaning-desc">Safe rug cleaning with steam, shampoo, or dry methods suited to each fabric.</div>
+                <div class="cleaning-title">Dust Removal & Pre-Wash</div>
+                <div class="cleaning-desc">Specialized equipment removes embedded soils and allergens.</div>
             </div>
 
             <!-- Card 3 -->
@@ -1754,8 +1754,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Stain Odor Treatment.png" alt="Stain & Odor Icon">
                 </div>
-                <div class="stain-odor-title">Stain & Odor Treatment</div>
-                <div class="stain-odor-desc">Targeted stain and odor removal for pets, spills, and everyday accidents.</div>
+                <div class="stain-odor-title">Hand Cleaning & Stain Treatment</div>
+                <div class="stain-odor-desc">We use techniques to target stubborn stains effectively.</div>
             </div>
 
             <!-- Card 4 -->
@@ -1763,8 +1763,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Drying Grooming.png" alt="Drying Icon">
                 </div>
-                <div class="drying-grooming-title">Drying & Grooming</div>
-                <div class="drying-grooming-desc">Controlled drying and grooming to restore softness, freshness, and beauty.</div>
+                <div class="drying-grooming-title">Final Quality Check</div>
+                <div class="drying-grooming-desc">Meticulous inspection ensures rug returns in perfect condition.</div>
             </div>
         </div>
     </div>
@@ -1792,7 +1792,8 @@
                 </div>
                 
                 <div class="why-professional-description">
-                    <p>At home, vacuuming does not remove dust from the top. Your rug could still contain dust, allergens, and pet dander. These pollutants can affect fibers as well as impact your indoor air. When you choose A and B Carpet Cleaning, you receive more than just a simple clean. We offer:</p>
+                    <p> To keep your carpet clean A and B Carpet Cleaning ensures, you receive cleaning through advanced water extraction technology:
+</p>
                 </div>
                 
                 <div class="why-professional-features">
@@ -1800,28 +1801,28 @@
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Deep cleaning" src="/images/services images/why professional section/Deep Cleaning.svg">
                          </div>
-                         <div class="feature-text">Deep cleaning</div>
+                         <div class="feature-text">Thorough stain and odor removal</div>
                      </div>
                      
                      <div class="feature-item">
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Remove stains and odors" src="/images/services images/why professional section/Remove Stains and Odors.svg">
                          </div>
-                         <div class="feature-text">Remove stains and odors</div>
+                         <div class="feature-text">Complete restoration services</div>
                      </div>
                      
                      <div class="feature-item">
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Eco-friendly products" src="/images/services images/why professional section/Eco Friendly Products.svg">
                          </div>
-                         <div class="feature-text">Eco-friendly products</div>
+                         <div class="feature-text">Eco-friendly cleaning  products</div>
                      </div>
                      
                      <div class="feature-item">
                          <div class="feature-circle">
                              <img class="feature-icon" alt="Protecting delicate fibers" src="/images/services images/why professional section/Protecting Delicate Fibers.svg">
                          </div>
-                         <div class="feature-text">Protecting delicate fibers</div>
+                         <div class="feature-text">Delicate fiber care and protection</div>
                      </div>
                 </div>
             </div>
@@ -1870,11 +1871,11 @@
                     <span class="why-choose-title">
                         <span>Why Choose </span>
                         <span class="a-and-b">A and B</span>
-                        <span> Carpet?</span>
+                        <span> Carpet Cleaning?</span>
                     </span>
                 </div>
                 <div class="why-choose-description">
-                    We are the best rug cleaners in Brooklyn for several reasons.
+               We are Brooklyn's premier rug cleaning experts, trusted for excellent results.
                 </div>
             </div>
         </div>
@@ -1882,23 +1883,23 @@
             <div class="why-choose-features">
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Transparent and Affordable Pricing</div>
+                    <div class="feature-text">Specialized in Handling all rug sizes.</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Serving Brooklyn and neighborhoods</div>
+                    <div class="feature-text">30+ Years Expertise since 1980.</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Rug cleaning expertise of over 30 years</div>
+                    <div class="feature-text">Eco-Safe Solutions for Families and Pets.</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">You can rely on friendly, professional service</div>
+                    <div class="feature-text">Artisan Stain Removal of Tough stains.</div>
                 </div>
                 <div class="feature-item">
                     <div class="feature-dot"></div>
-                    <div class="feature-text">Green-cleaning and non-toxic cleaning products</div>
+                    <div class="feature-text">Satisfaction Guaranteed to make it right</div>
                 </div>
             </div>
         </div>
@@ -1986,7 +1987,7 @@
                     </div>
                     <div class="trusted-feature-content">
                         <div class="trusted-feature-title">Years of Experience</div>
-                        <div class="trusted-feature-desc">30+ years of trusted carpet and rug cleaning services in Brooklyn and beyond.</div>
+                        <div class="trusted-feature-desc">Three decades repairing Brooklyn water and fire damage.</div>
                     </div>
                 </div>
                 
@@ -1995,8 +1996,8 @@
                         <img src="/images/services images/What Make Us Trusted/Safe Cleaning Products.svg" alt="Safe Cleaning Products">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Safe Cleaning Products</div>
-                        <div class="trusted-feature-desc">Eco-friendly cleaning solutions safe for kids, pets, and the environment always.</div>
+                        <div class="trusted-feature-title">Antique Rug Washing</div>
+                        <div class="trusted-feature-desc">Eco-friendly and safe for homes with kids and pets.</div>
                     </div>
                 </div>
                 
@@ -2005,8 +2006,8 @@
                         <img src="/images/services images/What Make Us Trusted/Ontime and Reliable.svg" alt="On-Time and Reliable">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">On-Time and Reliable</div>
-                        <div class="trusted-feature-desc">We arrive on time, with the right tools, ready to deliver professional service.</div>
+                        <div class="trusted-feature-title">Deep Cleaning</div>
+                        <div class="trusted-feature-desc">Advanced extraction removes dirt, restores rugs.</div>
                     </div>
                 </div>
                 
@@ -2015,8 +2016,8 @@
                         <img src="/images/services images/What Make Us Trusted/We Stand behind our Work.svg" alt="We Stand Behind Our Work">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">We Stand Behind Our Work</div>
-                        <div class="trusted-feature-desc">If you're not happy, we'll re-clean until you're satisfied guaranteed quality.</div>
+                        <div class="trusted-feature-title">Commitment to Excellence:</div>
+                        <div class="trusted-feature-desc">We'll reclean if needed, your comfort and clean air are our top priorities.</div>
                     </div>
                 </div>
             </div>
@@ -2045,7 +2046,7 @@
                     <img src="/images/services images/we are here to help you/special offer.svg" alt="Special offer">
                 </div>
                 <div class="help-title">Special Offer</div>
-                <div class="help-desc">Make a first carpet cleaning service with a 20 percent discount</div>
+                <div class="help-desc">First-Time Rug Cleaning with a 20% Discounted Pickup/Delivery.</div>
                 <a href="/contact" class="help-button primary-button">Get Quote</a>
             </div>
             
@@ -2053,8 +2054,8 @@
                 <div class="help-icon">
                     <img src="/images/services images/we are here to help you/need quick service.svg" alt="Quick service">
                 </div>
-                <div class="help-title">Need Quick Service?</div>
-                <div class="help-desc">Book today to have your Stained carpet cleaned on the same day</div>
+                <div class="help-title">Need Expert Rug Care?</div>
+                <div class="help-desc">Call for a quote and learn about our current availability.</div>
                 <a href="/contact" class="help-button secondary-button">Chat With Us</a>
             </div>
             
@@ -2063,7 +2064,7 @@
                     <img src="/images/services images/we are here to help you/why wait.svg" alt="Why wait">
                 </div>
                 <div class="help-title">Why Wait?</div>
-                <div class="help-desc">Brooklyn Carpet Cleaner (licensed, bonded and insured)</div>
+                <div class="help-desc">Brooklyn's trusted rug cleaner (licensed, bonded, and insured).</div>
                 <a href="tel:{{ Config::get('page.phone_use') }}" class="help-button primary-button">Call Now</a>
             </div>
         </div>
@@ -2077,7 +2078,7 @@
             <span class="testimonial-title">
                 <span>The Most Reliable </span>
                 <span class="a-and-b">Cleaners</span>
-                <span> of Brooklyn</span>
+                <span> in Brooklyn</span>
             </span>
         </div>
         
@@ -2224,3 +2225,4 @@
 </section>
 
 @include('inc.footer')
+-new
