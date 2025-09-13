@@ -1735,8 +1735,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services%20images/icons/Inspection%20%20Dust%20Removal.png" alt="Inspection Icon">
                 </div>
-                <div class="inspection-dust">Inspection & Measurement</div>
-                <div class="thorough-rug-checkup">Thorough subfloor assessment and precise measuring for perfect fit.</div>
+                <div class="inspection-dust">Inspection</div>
+                <div class="thorough-rug-checkup">Thorough subfloor assessment.</div>
             </div>
 
             <!-- Card 2 -->
@@ -1762,7 +1762,7 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Drying Grooming.png" alt="Drying Icon">
                 </div>
-                <div class="drying-grooming-title">Final Inspection & Cleanup </div>
+                <div class="drying-grooming-title">Final Inspection </div>
                 <div class="drying-grooming-desc">Quality check plus vacuuming and waste removal for clean finish.</div>
             </div>
         </div>
@@ -1986,8 +1986,7 @@
                     </div>
                     <div class="trusted-feature-content">
                         <div class="trusted-feature-title">Expert Craftsmanship</div>
-                        <div class="trusted-feature-desc"> Our professional installers take pride in perfect seams, precise stretching, and flawless attention to detail.
-</div>
+                        <div class="trusted-feature-desc">Our professional installers take pride in our flawless work.</div>
                     </div>
                 </div>
                 
@@ -1996,8 +1995,8 @@
                         <img src="/images/services images/What Make Us Trusted/Safe Cleaning Products.svg" alt="Safe Cleaning Products">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Locally Trusted Brooklyn Experts</div>
-                        <div class="trusted-feature-desc">Brooklyn's trusted installation experts bring professional-grade techniques to homes throughout the borough.</div>
+                        <div class="trusted-feature-title">Trusted Experts</div>
+                        <div class="trusted-feature-desc">Brooklyn's trusted installation experts throughout the borough.</div>
                     </div>
                 </div>
                 
@@ -2006,8 +2005,8 @@
                         <img src="/images/services images/What Make Us Trusted/Ontime and Reliable.svg" alt="On-Time and Reliable">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Our Satisfaction Guarantee</div>
-                        <div class="trusted-feature-desc">We guarantee perfect installation and address concerns promptly, complete satisfaction is our priority</div>
+                        <div class="trusted-feature-title">Satisfaction Guaranteed</div>
+                        <div class="trusted-feature-desc">We assure perfect installation and resolve concerns promptly.</div>
                     </div>
                 </div>
                 
@@ -2016,8 +2015,8 @@
                         <img src="/images/services images/What Make Us Trusted/We Stand behind our Work.svg" alt="We Stand Behind Our Work">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">We Stand Behind Our Work</div>
-                        <div class="trusted-feature-desc">Our workmanship guarantee ensures your peace of mind for years. We're committed to excellence.</div>
+                        <div class="trusted-feature-title">Our Commitment</div>
+                        <div class="trusted-feature-desc">We ensure your peace of mind for years.</div>
                     </div>
                 </div>
             </div>
@@ -2227,3 +2226,4 @@
 </section>
 @include('inc.footer')
 --new
+
