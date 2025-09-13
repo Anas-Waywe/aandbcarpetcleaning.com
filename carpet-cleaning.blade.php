@@ -1736,7 +1736,7 @@
                     <img src="/images/services%20images/icons/Inspection%20%20Dust%20Removal.png" alt="Inspection Icon">
                 </div>
                 <div class="inspection-dust">Inspection </div>
-                <div class="thorough-rug-checkup">Thorough assessment of fibers & stains for effective treatment.</div>
+                <div class="thorough-rug-checkup">Thorough assessment of fibers & stains.</div>
             </div>
 
             <!-- Card 2 -->
@@ -1745,7 +1745,7 @@
                     <img src="/images/services images/icons/Cleaning.png" alt="Cleaning Icon">
                 </div>
                 <div class="cleaning-title">Deep Cleaning</div>
-                <div class="cleaning-desc">Advanced hot water extraction tailored to your carpet type.</div>
+                <div class="cleaning-desc">Advanced hot water extraction.</div>
             </div>
 
             <!-- Card 3 -->
@@ -1754,7 +1754,7 @@
                     <img src="/images/services images/icons/Stain Odor Treatment.png" alt="Stain & Odor Icon">
                 </div>
                 <div class="stain-odor-title">Stain Removal</div>
-                <div class="stain-odor-desc">Target stubborn stains & odors with powerful, eco-safe solutions.</div>
+                <div class="stain-odor-desc">Target stubborn stains & odors with powerful solutions.</div>
             </div>
 
             <!-- Card 4 -->
@@ -1984,8 +1984,8 @@
                         <img src="/images/services images/What Make Us Trusted/Years of Experience.svg" alt="Years of Experience">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Eco-Safe Cleaning Solutions</div>
-                        <div class="trusted-feature-desc">Non-toxic, biodegradable products safe for families and pets while delivering powerful deep cleaning.</div>
+                        <div class="trusted-feature-title">Eco-Safe Cleaning</div>
+                        <div class="trusted-feature-desc">Non-toxic, biodegradable products safe for families and pets.</div>
                     </div>
                 </div>
                 
@@ -1994,8 +1994,8 @@
                         <img src="/images/services images/What Make Us Trusted/Safe Cleaning Products.svg" alt="Safe Cleaning Products">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Locally Trusted Brooklyn Experts</div>
-                        <div class="trusted-feature-desc">Your local Brooklyn team brings professional-grade, nationally recognized cleaning to your home.</div>
+                        <div class="trusted-feature-title">Trusted Experts</div>
+                        <div class="trusted-feature-desc">Our local team brings professional-grade cleaning to you.</div>
                     </div>
                 </div>
                 
@@ -2004,9 +2004,8 @@
                         <img src="/images/services images/What Make Us Trusted/Ontime and Reliable.svg" alt="On-Time and Reliable">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Our Satisfaction Guarantee</div>
-                        <div class="trusted-feature-desc">Unhappy? We'll return to reclean at no extra cost. Your complete satisfaction is our priority.
-</div>
+                        <div class="trusted-feature-title">Satisfaction Guaranteed</div>
+                        <div class="trusted-feature-desc">Your complete satisfaction is our priority.</div>
                     </div>
                 </div>
                 
@@ -2015,8 +2014,8 @@
                         <img src="/images/services images/What Make Us Trusted/We Stand behind our Work.svg" alt="We Stand Behind Our Work">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">We Stand Behind Our Work</div>
-                        <div class="trusted-feature-desc">We'll keep working until you're satisfied. Stubborn stains or odors won't stand a chance with us.</div>
+                        <div class="trusted-feature-title">Our Commitment</div>
+                        <div class="trusted-feature-desc">We'll keep working until you're satisfied. </div>
                     </div>
                 </div>
             </div>
@@ -2225,3 +2224,4 @@
 </section>
 @include('inc.footer')
 -new
+
