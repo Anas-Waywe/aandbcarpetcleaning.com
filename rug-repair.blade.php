@@ -1735,8 +1735,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services%20images/icons/Inspection%20%20Dust%20Removal.png" alt="Inspection Icon">
                 </div>
-                <div class="inspection-dust">Inspection & Damage Assessment</div>
-                <div class="thorough-rug-checkup">Thorough evaluation of damage and material to plan the perfect restoration.</div>
+                <div class="inspection-dust">Inspection</div>
+                <div class="thorough-rug-checkup">Thorough evaluation of damage and material.</div>
             </div>
 
             <!-- Card 2 -->
@@ -1744,7 +1744,7 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Rug Repair/sewing.png" alt="Cleaning Icon">
                 </div>
-                <div class="cleaning-title">Expert Repair & Reweaving</div>
+                <div class="cleaning-title">Reweaving</div>
                 <div class="cleaning-desc">Masterful reweaving, patching, and fringe repair for seamless results.</div>
             </div>
 
@@ -1753,7 +1753,7 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Rug Repair/edge repair.png" alt="Stain & Odor Icon">
                 </div>
-                <div class="stain-odor-title">Color Matching & Blending</div>
+                <div class="stain-odor-title">Color Matching </div>
                 <div class="stain-odor-desc">Precise dye matching and blending to ensure repairs are invisible.</div>
             </div>
 
@@ -1762,7 +1762,7 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Drying Grooming.png" alt="Drying Icon">
                 </div>
-                <div class="drying-grooming-title">Final Quality Assurance</div>
+                <div class="drying-grooming-title">Final Check</div>
                 <div class="drying-grooming-desc">Detailed inspection and cleaning to ensure your rug looks revitalized.</div>
             </div>
         </div>
@@ -1985,8 +1985,8 @@
                         <img src="/images/services images/What Make Us Trusted/Years of Experience.svg" alt="Years of Experience">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Masterful Rug Craftsmanship</div>
-                        <div class="trusted-feature-desc"> Our artisans take pride in perfect rewearing, flawless patching, and meticulous attention to detail.</div>
+                        <div class="trusted-feature-title">Expert Craftsmanship</div>
+                        <div class="trusted-feature-desc"> Our artisans take pride in meticulous attention to detail.</div>
                     </div>
                 </div>
                 
@@ -1995,8 +1995,8 @@
                         <img src="/images/services images/What Make Us Trusted/Safe Cleaning Products.svg" alt="Safe Cleaning Products">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Locally Trusted Brooklyn Experts</div>
-                        <div class="trusted-feature-desc">Brooklyn’s trusted rug repair specialists bring restoration service to homes throughout the borough.</div>
+                        <div class="trusted-feature-title">Trusted Experts</div>
+                        <div class="trusted-feature-desc">Our rug repair specialists bring restoration service to homes.</div>
                     </div>
                 </div>
                 
@@ -2005,8 +2005,8 @@
                         <img src="/images/services images/What Make Us Trusted/Ontime and Reliable.svg" alt="On-Time and Reliable">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Our Satisfaction Guarantee</div>
-                        <div class="trusted-feature-desc">We guarantee seamless repairs and address concerns. Your complete satisfaction is our priority.</div>
+                        <div class="trusted-feature-title">Satisfaction Guaranteed</div>
+                        <div class="trusted-feature-desc">We guarantee seamless repairs and address concerns.</div>
                     </div>
                 </div>
                 
@@ -2015,8 +2015,8 @@
                         <img src="/images/services images/What Make Us Trusted/We Stand behind our Work.svg" alt="We Stand Behind Our Work">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">We Stand Behind Our Work</div>
-                        <div class="trusted-feature-desc">Our craftsmanship ensures your rug’ longevity and beauty. Committed to excellence in every repair.</div>
+                        <div class="trusted-feature-title">Our Responsibility</div>
+                        <div class="trusted-feature-desc">Committed to excellence in every repair.</div>
                     </div>
                 </div>
             </div>
@@ -2224,3 +2224,4 @@
 </section>
 @include('inc.footer')
 abcc
+
