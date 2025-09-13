@@ -1735,9 +1735,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services%20images/icons/Inspection%20%20Dust%20Removal.png" alt="Inspection Icon">
                 </div>
-                <div class="inspection-dust">Inspection & Damage Assessment</div>
-                <div class="thorough-rug-checkup">Thorough evaluation of damage to create a customized restoration plan.
-</div>
+                <div class="inspection-dust">Damage Assessment</div>
+                <div class="thorough-rug-checkup">Thorough evaluation of damage for a restoration plan.</div>
             </div>
 
             <!-- Card 2 -->
@@ -1745,8 +1744,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Cleaning.png" alt="Cleaning Icon">
                 </div>
-                <div class="cleaning-title">Water Extraction & Drying</div>
-                <div class="cleaning-desc">Powerful equipment removes water and thoroughly dries affected areas.</div>
+                <div class="cleaning-title">Water Extraction</div>
+                <div class="cleaning-desc">Powerful equipment removes water from affected areas.</div>
             </div>
 
             <!-- Card 3 -->
@@ -1754,8 +1753,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Stain Odor Treatment.png" alt="Stain & Odor Icon">
                 </div>
-                <div class="stain-odor-title">Cleaning & Sanitizing</div>
-                <div class="stain-odor-desc">Deep cleaning, sanitizing, and deodorizing with eco-friendly solutions.</div>
+                <div class="stain-odor-title">Sanitizing</div>
+                <div class="stain-odor-desc">Sanitizing, and deodorizing with eco-friendly solutions.</div>
             </div>
 
             <!-- Card 4 -->
@@ -1763,8 +1762,8 @@
                 <div class="cleaning-icon-circle">
                     <img src="/images/services images/icons/Drying Grooming.png" alt="Drying Icon">
                 </div>
-                <div class="drying-grooming-title">Mold Prevention & Restoration</div>
-                <div class="drying-grooming-desc">Anti-microbial treatment prevents mold and restores your property.</div>
+                <div class="drying-grooming-title">Mold Prevention</div>
+                <div class="drying-grooming-desc">Anti-microbial treatment prevents mold.</div>
             </div>
         </div>
     </div>
@@ -1986,9 +1985,8 @@
                         <img src="/images/services images/What Make Us Trusted/Years of Experience.svg" alt="Years of Experience">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Advanced Restoration Technology</div>
-                        <div class="trusted-feature-desc"> We use industrial-grade equipment for water extraction, drying, and sanitizing.
-</div>
+                        <div class="trusted-feature-title">Advanced Restorations</div>
+                        <div class="trusted-feature-desc">Using industrial-grade equipment for advanced techniques</div>
                     </div>
                 </div>
                 
@@ -1997,10 +1995,8 @@
                         <img src="/images/services images/What Make Us Trusted/Safe Cleaning Products.svg" alt="Safe Cleaning Products">
                     </div>
                     <div class="trusted-feature-content">
-                        <div class="trusted-feature-title">Locally Trusted Brooklyn Experts
-</div>
-                        <div class="trusted-feature-desc">Brooklyn’s trusted restoration specialists bring rapid response and expert care.
-</div>
+                        <div class="trusted-feature-title">Trusted Brooklyn Experts</div>
+                        <div class="trusted-feature-desc">Brooklyn’s trusted restoration specialists bring rapid response and expert care.</div>
                     </div>
                 </div>
                 
@@ -2010,8 +2006,7 @@
                     </div>
                     <div class="trusted-feature-content">
                         <div class="trusted-feature-title">Our Satisfaction Guarantee</div>
-                        <div class="trusted-feature-desc">We guarantee thorough restoration and address all concerns.
-</div>
+                        <div class="trusted-feature-desc">We guarantee thorough restoration and address all concerns.</div>
                     </div>
                 </div>
                 
@@ -2021,7 +2016,7 @@
                     </div>
                     <div class="trusted-feature-content">
                         <div class="trusted-feature-title">We Stand Behind Our Work</div>
-                        <div class="trusted-feature-desc">Our quality guarantee ensures beautiful results. Committed to excellence in every upholstery service.</div>
+                        <div class="trusted-feature-desc">Our methods ensure your property’s safety and longevity.</div>
                     </div>
                 </div>
             </div>
@@ -2229,3 +2224,4 @@
 </section>
 @include('inc.footer')
 -new
+
